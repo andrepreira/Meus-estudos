@@ -93,7 +93,9 @@ https://cursos.alura.com.br/category/programacao#python
 
 https://cursos.alura.com.br/category/programacao#python-web
 
+Devops
 
+https://cursos.alura.com.br/category/devops
 
 DataScience
 
