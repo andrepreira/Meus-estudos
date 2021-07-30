@@ -8,7 +8,7 @@
 
 https://cursos.alura.com.br/course/html5-css3-posicionamento-listas-navegacao
 
-[] 30/07/2021- sexta - Curso 2 - PHP: Manipulando coleções com Arrays
+[x] 30/07/2021- sexta - Curso 2 - PHP: Manipulando coleções com Arrays
 
 https://cursos.alura.com.br/course/php-arrays/task/55498
 
