@@ -1,0 +1,55 @@
+CREATE DATABASE `sucos_vendas` /*!40100 DEFAULT CHARACTER SET utf8 */;
+
+CREATE TABLE `sucos_vendas`.`itens_notas_fiscais` (
+  `NUMERO` int(11) NOT NULL,
+  `CODIGO_DO_PRODUTO` varchar(10) NOT NULL,
+  `QUANTIDADE` INT(11) DEFAULT NULL,
+  `PRECO` float DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+CREATE TABLE `sucos_vendas`.`notas_fiscais` (
+  `CPF` varchar(11) NOT NULL,
+  `MATRICULA` varchar(5) NOT NULL,
+  `DATA_VENDA` date DEFAULT NULL,
+  `NUMERO` int(11) NOT NULL,
+  `IMPOSTO` float DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+CREATE TABLE `sucos_vendas`.`tabela_de_cliente` (
+  `CPF` varchar(11) NOT NULL,
+  `NOME` varchar(100) DEFAULT NULL,
+  `ENDERECO1` varchar(150) DEFAULT NULL,
+  `ENDERECO2` varchar(150) DEFAULT NULL,
+  `BAIRRO` varchar(50) DEFAULT NULL,
+  `CIDADE` varchar(50) DEFAULT NULL,
+  `ESTADO` varchar(2) DEFAULT NULL,
+  `CEP` varchar(8) DEFAULT NULL,
+  `DATA_NASCIMENTO` date DEFAULT NULL,
+  `IDADE` smallint(6) DEFAULT NULL,
+  `SEXO` varchar(1) DEFAULT NULL,
+  `LIMITE_CREDITO` float DEFAULT NULL,
+  `VOLUME_COMPRA` float DEFAULT NULL,
+  `PRIMEIRA_COMPRA` bit(1) DEFAULT NULL,
+  PRIMARY KEY (`CPF`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+CREATE TABLE `sucos_vendas`.`tabela_de_produto` (
+  `PRODUTO` varchar(20) NOT NULL,
+  `NOME` varchar(150) DEFAULT NULL,
+  `EMBALAGEM` varchar(50) DEFAULT NULL,
+  `TAMANHO` varchar(50) DEFAULT NULL,
+  `SABOR` varchar(50) DEFAULT NULL,
+  `PRECO_LISTA` float DEFAULT NULL,
+  PRIMARY KEY (`PRODUTO`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+CREATE TABLE `sucos_vendas`.`tabela_de_vendedores` (
+  `MATRICULA` varchar(5) NOT NULL,
+  `NOME` varchar(100) DEFAULT NULL,
+  `PERCENTUAL_COMISSAO` float DEFAULT NULL,
+  `DATA_ADMISSAO` date DEFAULT NULL,
+  `DE_FERIAS` bit(1) DEFAULT NULL,
+  PRIMARY KEY (`MATRICULA`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+
