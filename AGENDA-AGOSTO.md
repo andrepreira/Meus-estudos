@@ -12,7 +12,7 @@ https://cursos.alura.com.br/course/html5-css3-posicionamento-listas-navegacao
 
 https://cursos.alura.com.br/course/php-arrays/task/55498
 
-[x] 31/07/2021- sabado - Clojure: Introdução à programação funcional
+[x] 31/07/2021- Curso 3 - sabado - Clojure: Introdução à programação funcional
 
 https://cursos.alura.com.br/course/clojure-introducao-a-programacao-funcional/task/60374
 
@@ -27,55 +27,59 @@ Consultas SQL: Avançando no SQL com MySQL
 
 https://cursos.alura.com.br/course/mysql-consultas-sql/task/55590
 
-[] 04/08/2021- quarta - Curso 1 - 
+[] 04/08/2021- quarta - Curso 1 - HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas
 
-[] 05/08/2021- quinta - Curso 2 - 
+https://cursos.alura.com.br/course/html5-css3-formularios-tabelas
 
-[] 06/08/2021- sexta - Curso 3 - Orientação a Objetos: Melhores técnicas com Ruby
+[] 05/08/2021- quinta - Curso 2 - PHP Composer: Dependências, Autoload e Publicação
 
-https://cursos.alura.com.br/course/orientacao-objetos-ruby
+https://cursos.alura.com.br/course/php-composer/task/56133
+
+[] 06/08/2021- sexta - Curso 3 - Clojure: Introdução à programação funcional
+
+https://cursos.alura.com.br/course/clojure-introducao-a-programacao-funcional/task/59774
 
 [] 07/08/2021- sabado - Curso 4 - 
 
 ### **Semana 3**
 
-[] 09/08/2021- segunda - Curso 4 - 
+[] 09/08/2021- segunda - Curso 5 - 
 
-[] 10/08/2021- terça - Curso 5 - 
+[] 10/08/2021- terça - Curso 1 - 
 
-[] 11/08/2021- quarta - Curso 1 - 
+[] 11/08/2021- quarta - Curso 2 - 
 
-[] 12/08/2021- quinta - Curso 2 - 
+[] 12/08/2021- quinta - Curso 3 - 
 
-[] 13/08/2021- sexta - Curso 3 - 
+[] 13/08/2021- sexta - Curso 4 - 
 
-[] 14/08/2021- sabado - Curso 4 - 
+[] 14/08/2021- sabado - Curso 5 - 
 
 
 ### **Semana 4**
 
-[] 16/08/2021- segunda - Curso 4 - 
+[] 16/08/2021- segunda - Curso 1 - 
 
-[] 17/08/2021- terça - Curso 5 - 
+[] 17/08/2021- terça - Curso 2 - 
 
-[] 18/08/2021- quarta - Curso 1 - 
+[] 18/08/2021- quarta - Curso 3 - 
 
-[] 19/08/2021- quinta - Curso 2 - 
+[] 19/08/2021- quinta - Curso 4 - 
 
-[] 20/08/2021- sexta - Curso 3 - 
+[] 20/08/2021- sexta - Curso 5 - 
 
-[] 21/08/2021- sabado - Curso 4 - 
+[] 21/08/2021- sabado - Curso 1 - 
 
 ### **Semana 5**
 
-[] 23/08/2021- segunda - Curso 4 - 
+[] 23/08/2021- segunda - Curso 2 - 
 
-[] 24/08/2021- terça - Curso 5 - 
+[] 24/08/2021- terça - Curso 3 - 
 
-[] 25/08/2021- quarta - Curso 1 - 
+[] 25/08/2021- quarta - Curso 4 - 
 
-[] 26/08/2021- quinta - Curso 2 - 
+[] 26/08/2021- quinta - Curso 5 - 
 
-[] 27/08/2021- sexta - Curso 3 - 
+[] 27/08/2021- sexta - Curso 1 - 
 
-[] 28/08/2021- sabado - Curso 4 - 
+[] 28/08/2021- sabado - Curso 2 - 
