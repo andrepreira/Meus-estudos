@@ -36,8 +36,6 @@ Curso 2 |   PHP, NodeJS, Arquiteto PHP
 
 Curso 3 |  Paradigma Funcional: Golang e Clojure
 
-* Ruby on Rails - https://cursos.alura.com.br/ruby-on-rails-felipe-olivieri-1586868057330-p24079
-
 * Golang - https://cursos.alura.com.br/category/programacao#golang
 
 * Clojure - https://cursos.alura.com.br/category/programacao#clojure
@@ -86,6 +84,10 @@ https://cursos.alura.com.br/category/data-science
 * SQL e Banco de Dados - https://cursos.alura.com.br/category/data-science#sql
 
 * NoSQL - https://cursos.alura.com.br/category/data-science#nosql
+
+Git
+
+https://cursos.alura.com.br/category/devops#build-e-versionamento
 
 Python
 

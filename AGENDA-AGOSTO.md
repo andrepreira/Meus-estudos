@@ -12,19 +12,20 @@ https://cursos.alura.com.br/course/html5-css3-posicionamento-listas-navegacao
 
 https://cursos.alura.com.br/course/php-arrays/task/55498
 
-[] 31/07/2021- sabado - Curso 3 - Ruby on Rails 4: do zero à web
+[x] 31/07/2021- sabado - Clojure: Introdução à programação funcional
 
-https://cursos.alura.com.br/course/ruby-on-rails-4-do-zero
+https://cursos.alura.com.br/course/clojure-introducao-a-programacao-funcional/task/60374
 
 ### **Semana 1**
 
 [] 02/08/2021- segunda - Curso 4 - Java JRE e JDK: Escreva o seu primeiro código com Eclipse
 
-https://cursos.alura.com.br/course/java-primeiros-passos/task/29326
+https://cursos.alura.com.br/course/java-primeiros-passos/task/29328
 
 [] 03/08/2021- terça - Curso 5 - 
 Consultas SQL: Avançando no SQL com MySQL
-https://cursos.alura.com.br/course/mysql-consultas-sql
+
+https://cursos.alura.com.br/course/mysql-consultas-sql/task/55590
 
 [] 04/08/2021- quarta - Curso 1 - 
 
