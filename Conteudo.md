@@ -87,6 +87,10 @@ https://cursos.alura.com.br/category/data-science
 
 * NoSQL - https://cursos.alura.com.br/category/data-science#nosql
 
+Git
+
+https://cursos.alura.com.br/category/devops#build-e-versionamento
+
 Python
 
 https://cursos.alura.com.br/category/programacao#python
