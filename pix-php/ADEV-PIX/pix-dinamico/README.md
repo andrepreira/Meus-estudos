@@ -1,0 +1,1 @@
+Gera qrcode dinâmico utilizando o PSP gerencianet 
