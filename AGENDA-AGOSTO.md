@@ -18,7 +18,7 @@ https://cursos.alura.com.br/course/clojure-introducao-a-programacao-funcional/ta
 
 ### **Semana 1**
 
-[] 02/08/2021- segunda - Curso 4 - Java JRE e JDK: Escreva o seu primeiro código com Eclipse
+[x] 02/08/2021- segunda - Curso 4 - Java JRE e JDK: Escreva o seu primeiro código com Eclipse
 
 https://cursos.alura.com.br/course/java-primeiros-passos/task/29328
 
@@ -39,7 +39,9 @@ https://cursos.alura.com.br/course/php-composer/task/56133
 
 https://cursos.alura.com.br/course/clojure-introducao-a-programacao-funcional/task/59774
 
-[] 07/08/2021- sabado - Curso 4 - 
+[] 07/08/2021- sabado - Curso 4 - Java JRE e JDK: Escreva o seu primeiro código com Eclipse
+
+https://cursos.alura.com.br/course/java-primeiros-passos/task/29332
 
 ### **Semana 3**
 
