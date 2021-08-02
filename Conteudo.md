@@ -16,7 +16,7 @@ Curso 1 |  Frontend
 
 * ReactJS - https://cursos.alura.com.br/category/front-end#reactjs
 
-* VueJS - 
+* VueJS - https://cursos.alura.com.br/category/front-end#frameworks-mvc-em-javascript
 
 Curso 2 |   PHP, NodeJS, Arquiteto PHP
 
