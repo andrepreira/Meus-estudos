@@ -22,18 +22,16 @@ https://cursos.alura.com.br/course/clojure-introducao-a-programacao-funcional/ta
 
 https://cursos.alura.com.br/course/java-primeiros-passos/task/29328
 
-[] 03/08/2021- terça - Curso 5 - 
+[x] 03/08/2021- terça - Curso 5 - 
 Consultas SQL: Avançando no SQL com MySQL
 
 https://cursos.alura.com.br/course/mysql-consultas-sql/task/55590
 
-[] 04/08/2021- quarta - Curso 1 - HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas
+[] 04/08/2021- quarta - Curso 1 - NÃO ESTUDEI
 
-https://cursos.alura.com.br/course/html5-css3-formularios-tabelas
+[] 05/08/2021- quinta - Curso 2 - MVC com PHP: Entenda o padrão Model-View-Controller
 
-[] 05/08/2021- quinta - Curso 2 - PHP Composer: Dependências, Autoload e Publicação
-
-https://cursos.alura.com.br/course/php-composer/task/56133
+https://cursos.alura.com.br/course/php-model-view-controller/task/55907
 
 [] 06/08/2021- sexta - Curso 3 - Clojure: Introdução à programação funcional
 
@@ -47,7 +45,9 @@ https://cursos.alura.com.br/course/java-primeiros-passos/task/29332
 
 [] 09/08/2021- segunda - Curso 5 - 
 
-[] 10/08/2021- terça - Curso 1 - 
+[] 10/08/2021- terça - Curso 1 - HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas
+
+https://cursos.alura.com.br/course/html5-css3-formularios-tabelas
 
 [] 11/08/2021- quarta - Curso 2 - 
 
