@@ -18,9 +18,8 @@ Curso 1 |  Frontend
 
 * VueJS - https://cursos.alura.com.br/category/front-end#frameworks-mvc-em-javascript
 
-Curso 2 |   PHP, NodeJS, Arquiteto PHP
+Curso 2 |   PHP, Arquiteto PHP
 
-* NodeJS - https://cursos.alura.com.br/category/programacao#node-js
 
 * PHP - https://cursos.alura.com.br/category/programacao#php
 
@@ -75,7 +74,9 @@ dotNet
 * Certificação C# - https://cursos.alura.com.br/category/programacao#certificacao-csharp
 
 
-Curso 5 |  Banco de dados, Python e DataScience
+Curso 5 |  NodeJS, Banco de dados, Python e DataScience
+
+* NodeJS - https://cursos.alura.com.br/category/programacao#node-js
 
 Banco de dados
 
