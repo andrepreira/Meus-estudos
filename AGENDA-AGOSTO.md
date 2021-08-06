@@ -29,7 +29,7 @@ https://cursos.alura.com.br/course/mysql-consultas-sql/task/55590
 
 [] 04/08/2021- quarta - Curso 1 - NÃO ESTUDEI
 
-[] 05/08/2021- quinta - Curso 2 - MVC com PHP: Entenda o padrão Model-View-Controller
+[x] 05/08/2021- quinta - Curso 2 - MVC com PHP: Entenda o padrão Model-View-Controller
 
 https://cursos.alura.com.br/course/php-model-view-controller/task/55907
 
@@ -43,8 +43,8 @@ https://cursos.alura.com.br/course/java-primeiros-passos/task/29332
 
 ### **Semana 3**
 
-[] 09/08/2021- segunda - Curso 5 - 
-
+[] 09/08/2021- segunda - Curso 5 - NodeJS: Crie uma API REST padronizada e escalável
+https://cursos.alura.com.br/course/nodejs-api-rest-padronizada-escalavel/task/79828
 [] 10/08/2021- terça - Curso 1 - HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas
 
 https://cursos.alura.com.br/course/html5-css3-formularios-tabelas
