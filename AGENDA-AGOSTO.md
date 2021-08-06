@@ -33,7 +33,7 @@ https://cursos.alura.com.br/course/mysql-consultas-sql/task/55590
 
 https://cursos.alura.com.br/course/php-model-view-controller/task/55907
 
-[] 06/08/2021- sexta - Curso 3 - Clojure: Introdução à programação funcional
+[x] 06/08/2021- sexta - Curso 3 - Clojure: Introdução à programação funcional
 
 https://cursos.alura.com.br/course/clojure-introducao-a-programacao-funcional/task/59774
 
