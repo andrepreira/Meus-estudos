@@ -37,7 +37,7 @@ https://cursos.alura.com.br/course/php-model-view-controller/task/55907
 
 https://cursos.alura.com.br/course/clojure-introducao-a-programacao-funcional/task/59774
 
-[] 07/08/2021- sabado - Curso 4 - Java JRE e JDK: Escreva o seu primeiro código com Eclipse
+[x] 07/08/2021- sabado - Curso 4 - Java JRE e JDK: Escreva o seu primeiro código com Eclipse
 
 https://cursos.alura.com.br/course/java-primeiros-passos/task/29332
 
@@ -45,15 +45,21 @@ https://cursos.alura.com.br/course/java-primeiros-passos/task/29332
 
 [] 09/08/2021- segunda - Curso 5 - NodeJS: Crie uma API REST padronizada e escalável
 https://cursos.alura.com.br/course/nodejs-api-rest-padronizada-escalavel/task/79828
+
 [] 10/08/2021- terça - Curso 1 - HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas
 
 https://cursos.alura.com.br/course/html5-css3-formularios-tabelas
 
-[] 11/08/2021- quarta - Curso 2 - 
+[] 11/08/2021- quarta - Curso 2 -  MVC com PHP: Entenda o padrão Model-View-Controller
 
-[] 12/08/2021- quinta - Curso 3 - 
+https://cursos.alura.com.br/course/php-model-view-controller/task/55920
 
-[] 13/08/2021- sexta - Curso 4 - 
+
+[] 12/08/2021- quinta - Curso 3 -
+
+[] 13/08/2021- sexta - Curso 4 - Java OO: Introdução à Orientação a Objetos
+
+https://cursos.alura.com.br/course/java-introducao-orientacao-objetos/task/29415
 
 [] 14/08/2021- sabado - Curso 5 - 
 
