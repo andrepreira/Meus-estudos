@@ -1,6 +1,6 @@
-(ns estoque.core-test
+(ns curso.core-test
   (:require [clojure.test :refer :all]
-            [estoque.core :refer :all]))
+            [curso.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."
