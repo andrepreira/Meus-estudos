@@ -55,8 +55,6 @@ Curso 4 |  Java, dotNet
 
 * Certificação Java - https://cursos.alura.com.br/category/programacao/certificacao-java
 
-
-
 dotNet
 
 * C# - https://cursos.alura.com.br/category/programacao#csharp
