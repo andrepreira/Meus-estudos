@@ -74,6 +74,12 @@ dotNet
 
 Curso 5 |  NodeJS, Banco de dados, Python e DataScience
 
+* Javascript OO - 
+
+https://cursos.alura.com.br/course/javascript-introducao?preRequirementFrom=javascritpt-orientacao-objetos
+
+https://cursos.alura.com.br/course/javascritpt-orientacao-objetos
+
 * NodeJS - https://cursos.alura.com.br/category/programacao#node-js
 
 Banco de dados
