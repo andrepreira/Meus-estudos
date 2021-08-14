@@ -46,33 +46,59 @@ https://cursos.alura.com.br/course/java-primeiros-passos/task/29332
 [x] 09/08/2021- segunda - Curso 5 - NodeJS: Crie uma API REST padronizada e escalável
 https://cursos.alura.com.br/course/nodejs-api-rest-padronizada-escalavel/task/79828
 
-[] 10/08/2021- terça - Curso 1 - HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas
+[x] 10/08/2021- terça - Curso 1 - HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas
 
 https://cursos.alura.com.br/course/html5-css3-formularios-tabelas
 
-[] 11/08/2021- quarta - Curso 2 -  MVC com PHP: Entenda o padrão Model-View-Controller
+JavaScript na Web: Validação de Formulários e HTML5
+https://cursos.alura.com.br/course/javascript-web-validacao-formularios-html5/task/86925
 
-https://cursos.alura.com.br/course/php-model-view-controller/task/55920
+jQuery: Domine a biblioteca mais popular do mercado parte 1
+
+https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado
+
+jQuery: Avance na biblioteca mais popular do mercado parte 2
+
+https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado-parte-2
+
+[] 11/08/2021- quarta - Curso 2 - NÃO ESTUDEI
 
 
-[] 12/08/2021- quinta - Curso 3 - Clojure: Introdução à programação funcional
+[] 12/08/2021- quinta - Curso 3 - NÃO ESTUDEI
 
-https://cursos.alura.com.br/course/clojure-introducao-a-programacao-funcional/task/60928
+[x] 13/08/2021- sexta - Curso 4 - Java OO: Introdução à Orientação a Objetos - 
 
-[] 13/08/2021- sexta - Curso 4 - Java OO: Introdução à Orientação a Objetos
+https://cursos.alura.com.br/course/java-introducao-orientacao-objetos/task/29415 - FEITO!
 
-https://cursos.alura.com.br/course/java-introducao-orientacao-objetos/task/29415
+Java Polimorfismo: Entenda herança e interfaces - https://cursos.alura.com.br/course/java-heranca-interfaces-polimorfismo/task/35076
 
-[] 14/08/2021- sabado - Curso 5 - 
+[] 14/08/2021- sabado - Curso 5 - NodeJS: Crie uma API REST padronizada e escalável
 
+https://cursos.alura.com.br/course/nodejs-api-rest-padronizada-escalavel/task/79830
 
 ### **Semana 4**
 
 [] 16/08/2021- segunda - Curso 1 - 
 
-[] 17/08/2021- terça - Curso 2 - 
+JavaScript na Web: Validação de Formulários e HTML5
 
-[] 18/08/2021- quarta - Curso 3 - 
+https://cursos.alura.com.br/course/javascript-web-validacao-formularios-html5
+
+jQuery: Domine a biblioteca mais popular do mercado parte 1
+
+https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado
+
+jQuery: Avance na biblioteca mais popular do mercado parte 2
+
+https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado-parte-2
+
+[] 17/08/2021- terça - Curso 2 -  MVC com PHP: Entenda o padrão Model-View-Controller
+
+https://cursos.alura.com.br/course/php-model-view-controller/task/55920
+
+[] 18/08/2021- quarta - Curso 3 - Clojure: Introdução à programação funcional
+
+https://cursos.alura.com.br/course/clojure-introducao-a-programacao-funcional/task/60928
 
 [] 19/08/2021- quinta - Curso 4 - 
 
