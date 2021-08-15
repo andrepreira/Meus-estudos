@@ -64,7 +64,9 @@ https://cursos.alura.com.br/course/javascript-web-validacao-formularios-html5/ta
 
 https://cursos.alura.com.br/course/java-introducao-orientacao-objetos/task/29415 - FEITO!
 
-Java Polimorfismo: Entenda herança e interfaces - https://cursos.alura.com.br/course/java-heranca-interfaces-polimorfismo/task/35076
+Java Polimorfismo: Entenda herança e interfaces - https://cursos.alura.com.br/course/java-heranca-interfaces-polimorfismo/task/35076 - FEITO!
+
+Java Exceções: Aprenda a criar, lançar e controlar exceções - https://cursos.alura.com.br/course/java-excecoes/task/37241
 
 [] 14/08/2021- sabado - Curso 5 - NodeJS: Crie uma API REST padronizada e escalável
 
@@ -78,13 +80,6 @@ JavaScript na Web: Validação de Formulários e HTML5
 
 https://cursos.alura.com.br/course/javascript-web-validacao-formularios-html5
 
-jQuery: Domine a biblioteca mais popular do mercado parte 1
-
-https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado
-
-jQuery: Avance na biblioteca mais popular do mercado parte 2
-
-https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado-parte-2
 
 [] 17/08/2021- terça - Curso 2 -  MVC com PHP: Entenda o padrão Model-View-Controller
 
@@ -94,11 +89,19 @@ https://cursos.alura.com.br/course/php-model-view-controller/task/55920
 
 https://cursos.alura.com.br/course/clojure-introducao-a-programacao-funcional/task/60928
 
-[] 19/08/2021- quinta - Curso 4 - 
+[] 19/08/2021- quinta - Curso 4 - Java Exceções: Aprenda a criar, lançar e controlar exceções -  https://cursos.alura.com.br/course/java-excecoes/task/37241
 
 [] 20/08/2021- sexta - Curso 5 - 
 
 [] 21/08/2021- sabado - Curso 1 - 
+
+jQuery: Domine a biblioteca mais popular do mercado parte 1
+
+https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado
+
+jQuery: Avance na biblioteca mais popular do mercado parte 2
+
+https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado-parte-2
 
 ### **Semana 5**
 
