@@ -53,13 +53,7 @@ https://cursos.alura.com.br/course/html5-css3-formularios-tabelas
 JavaScript na Web: Validação de Formulários e HTML5
 https://cursos.alura.com.br/course/javascript-web-validacao-formularios-html5/task/86925
 
-jQuery: Domine a biblioteca mais popular do mercado parte 1
 
-https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado
-
-jQuery: Avance na biblioteca mais popular do mercado parte 2
-
-https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado-parte-2
 
 [] 11/08/2021- quarta - Curso 2 - NÃO ESTUDEI
 
