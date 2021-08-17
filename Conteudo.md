@@ -92,6 +92,12 @@ https://cursos.alura.com.br/category/data-science
 
 * NoSQL - https://cursos.alura.com.br/category/data-science#nosql
 
+MongoDB
+
+https://cursos.alura.com.br/course/introducao-postgresql-primeiros-passos
+
+https://cursos.alura.com.br/course/postgresql-views-sub-consultas-funcoes
+
 Git
 
 https://cursos.alura.com.br/category/devops#build-e-versionamento
