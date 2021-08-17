@@ -68,7 +68,7 @@ Java Polimorfismo: Entenda herança e interfaces - https://cursos.alura.com.br/c
 
 Java Exceções: Aprenda a criar, lançar e controlar exceções - https://cursos.alura.com.br/course/java-excecoes/task/37241
 
-[] 14/08/2021- sabado - Curso 5 - NodeJS: Crie uma API REST padronizada e escalável
+[x] 14/08/2021- sabado - Curso 5 - NodeJS: Crie uma API REST padronizada e escalável
 
 https://cursos.alura.com.br/course/nodejs-api-rest-padronizada-escalavel/task/79830
 
