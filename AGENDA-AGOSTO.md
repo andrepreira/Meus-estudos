@@ -2,6 +2,10 @@
 
 ## Mês de Agosto
 
+Programação
+
+https://www.alura.com.br/cursos-online-programacao?gclid=CjwKCAjwmeiIBhA6EiwA-uaeFRgn4uvnQim45svS3lYdsAcM11a-gottbHEBRvzQLnJQD-toFC_NQhoC8G0QAvD_BwE
+
 ### **Semana 0**
 
 [x] 29/07/2021- quinta - Curso 1 - HTML5 e CSS3 parte 2: Posicionamento, listas e navegação
@@ -91,7 +95,23 @@ https://cursos.alura.com.br/course/clojure-introducao-a-programacao-funcional/ta
 
 [] 19/08/2021- quinta - Curso 4 - Java Exceções: Aprenda a criar, lançar e controlar exceções -  https://cursos.alura.com.br/course/java-excecoes/task/37241
 
-[] 20/08/2021- sexta - Curso 5 - 
+[] 20/08/2021- sexta - Curso 5 - NodeJS
+
+Fim da API Petshop
+
+
+https://cursos.alura.com.br/course/nodejs-api-rest-controle-versao
+
+
+JS POO
+
+https://cursos.alura.com.br/course/fundamentos-javascript-tipos-variaveis-funcoes
+
+https://cursos.alura.com.br/course/fundamentos-javascript-arrays
+
+https://cursos.alura.com.br/course/fundamentos-javascript-objetos
+
+
 
 [] 21/08/2021- sabado - Curso 1 - 
 

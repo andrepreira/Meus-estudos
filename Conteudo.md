@@ -3,6 +3,11 @@
 ## **Áreas de estudo:** 
 
 
+Programação
+
+https://www.alura.com.br/cursos-online-programacao?gclid=CjwKCAjwmeiIBhA6EiwA-uaeFRgn4uvnQim45svS3lYdsAcM11a-gottbHEBRvzQLnJQD-toFC_NQhoC8G0QAvD_BwE
+
+
 
 Curso 1 |  Frontend
 
