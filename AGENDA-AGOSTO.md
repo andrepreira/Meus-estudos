@@ -85,7 +85,7 @@ JavaScript na Web: Validação de Formulários e HTML5
 https://cursos.alura.com.br/course/javascript-web-validacao-formularios-html5
 
 
-[] 17/08/2021- terça - Curso 2 -  MVC com PHP: Entenda o padrão Model-View-Controller
+[x] 17/08/2021- terça - Curso 2 -  MVC com PHP: Entenda o padrão Model-View-Controller
 
 https://cursos.alura.com.br/course/php-model-view-controller/task/55920
 
