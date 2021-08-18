@@ -78,11 +78,7 @@ https://cursos.alura.com.br/course/nodejs-api-rest-padronizada-escalavel/task/79
 
 ### **Semana 4**
 
-[] 16/08/2021- segunda - Curso 1 - 
-
-JavaScript na Web: Validação de Formulários e HTML5
-
-https://cursos.alura.com.br/course/javascript-web-validacao-formularios-html5
+[] 16/08/2021- segunda - Curso 1 -  NÃO ESTUDEI
 
 
 [x] 17/08/2021- terça - Curso 2 -  MVC com PHP: Entenda o padrão Model-View-Controller
@@ -96,6 +92,10 @@ https://cursos.alura.com.br/course/clojure-introducao-a-programacao-funcional/ta
 [] 19/08/2021- quinta - Curso 4 - Java Exceções: Aprenda a criar, lançar e controlar exceções -  https://cursos.alura.com.br/course/java-excecoes/task/37241
 
 [] 20/08/2021- sexta - Curso 5 - NodeJS
+
+NodeJS: Crie uma API REST padronizada e escalável
+
+https://cursos.alura.com.br/course/nodejs-api-rest-padronizada-escalavel/task/80280
 
 Fim da API Petshop
 
@@ -115,6 +115,10 @@ https://cursos.alura.com.br/course/fundamentos-javascript-objetos
 
 [] 21/08/2021- sabado - Curso 1 - 
 
+JavaScript na Web: Validação de Formulários e HTML5
+
+https://cursos.alura.com.br/course/javascript-web-validacao-formularios-html5
+
 jQuery: Domine a biblioteca mais popular do mercado parte 1
 
 https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado
@@ -125,7 +129,9 @@ https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado-parte-2
 
 ### **Semana 5**
 
-[] 23/08/2021- segunda - Curso 2 - 
+[] 23/08/2021- segunda - Curso 2 - MVC com PHP: Entenda o padrão Model-View-Controller
+
+https://cursos.alura.com.br/course/php-model-view-controller/task/55927
 
 [] 24/08/2021- terça - Curso 3 - 
 
