@@ -85,32 +85,15 @@ https://cursos.alura.com.br/course/nodejs-api-rest-padronizada-escalavel/task/79
 
 https://cursos.alura.com.br/course/php-model-view-controller/task/55920
 
-[] 18/08/2021- quarta - Curso 3 - Clojure: Introdução à programação funcional
+[] 18/08/2021- quarta - Curso 3 - Python 3 parte 1: Introdução à nova versão da linguagem
 
-https://cursos.alura.com.br/course/clojure-introducao-a-programacao-funcional/task/60928
-
-[] 19/08/2021- quinta - Curso 4 - Java Exceções: Aprenda a criar, lançar e controlar exceções -  https://cursos.alura.com.br/course/java-excecoes/task/37241
-
-[] 20/08/2021- sexta - Curso 5 - NodeJS
-
-NodeJS: Crie uma API REST padronizada e escalável
-
-https://cursos.alura.com.br/course/nodejs-api-rest-padronizada-escalavel/task/80280
-
-Fim da API Petshop
+https://cursos.alura.com.br/course/python-3-introducao-a-nova-versao-da-linguagem/task/22695
 
 
-https://cursos.alura.com.br/course/nodejs-api-rest-controle-versao
 
+[] 19/08/2021- quinta - Curso 4 - 
 
-JS POO
-
-https://cursos.alura.com.br/course/fundamentos-javascript-tipos-variaveis-funcoes
-
-https://cursos.alura.com.br/course/fundamentos-javascript-arrays
-
-https://cursos.alura.com.br/course/fundamentos-javascript-objetos
-
+[] 20/08/2021- sexta - Curso 5 - 
 
 
 [] 21/08/2021- sabado - Curso 1 - 
@@ -133,11 +116,48 @@ https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado-parte-2
 
 https://cursos.alura.com.br/course/php-model-view-controller/task/55927
 
-[] 24/08/2021- terça - Curso 3 - 
+PHP Composer: Dependências, Autoload e Publicação
 
-[] 25/08/2021- quarta - Curso 4 - 
+https://cursos.alura.com.br/course/php-composer?preRequirementFrom=phpunit-tdd
 
-[] 26/08/2021- quinta - Curso 5 - 
+PHP e TDD: Testes com PHPUnit
+
+https://cursos.alura.com.br/course/phpunit-tdd?preRequirementFrom=php-mocks
+
+Mocks em PHP: Entenda os dublês de testes
+
+https://cursos.alura.com.br/course/php-mocks?preRequirementFrom=object-calisthenics-exercitando-orientacao-objetos
+
+Object Calisthenics: Exercitando a Orientação a Objetos
+
+https://cursos.alura.com.br/course/object-calisthenics-exercitando-orientacao-objetos
+
+[] 24/08/2021- terça - Curso 3 -  Clojure: Introdução à programação funcional
+
+https://cursos.alura.com.br/course/clojure-introducao-a-programacao-funcional/task/60928
+
+[] 25/08/2021- quarta - Curso 4 - Java Exceções: Aprenda a criar, lançar e controlar exceções -  https://cursos.alura.com.br/course/java-excecoes/task/37241
+
+[] 26/08/2021- quinta - Curso 5 - NodeJS
+
+NodeJS: Crie uma API REST padronizada e escalável
+
+https://cursos.alura.com.br/course/nodejs-api-rest-padronizada-escalavel/task/80280
+
+Fim da API Petshop
+
+
+https://cursos.alura.com.br/course/nodejs-api-rest-controle-versao
+
+
+JS POO
+
+https://cursos.alura.com.br/course/fundamentos-javascript-tipos-variaveis-funcoes
+
+https://cursos.alura.com.br/course/fundamentos-javascript-arrays
+
+https://cursos.alura.com.br/course/fundamentos-javascript-objetos
+
 
 [] 27/08/2021- sexta - Curso 1 - 
 
