@@ -85,7 +85,7 @@ https://cursos.alura.com.br/course/nodejs-api-rest-padronizada-escalavel/task/79
 
 https://cursos.alura.com.br/course/php-model-view-controller/task/55920
 
-[] 18/08/2021- quarta - Curso 3 - Python 3 parte 1: Introdução à nova versão da linguagem
+[x] 18/08/2021- quarta - Curso 3 - Python 3 parte 1: Introdução à nova versão da linguagem
 
 https://cursos.alura.com.br/course/python-3-introducao-a-nova-versao-da-linguagem/task/22695
 
