@@ -90,10 +90,33 @@ https://cursos.alura.com.br/course/php-model-view-controller/task/55920
 https://cursos.alura.com.br/course/python-3-introducao-a-nova-versao-da-linguagem/task/22695
 
 
+[x] 19/08/2021- quinta - Curso 4 - Python 3 parte 2: Avançando na linguagem
 
-[] 19/08/2021- quinta - Curso 4 - 
+https://cursos.alura.com.br/course/python-3-avancando-na-linguagem/task/25110
+
 
 [] 20/08/2021- sexta - Curso 5 - 
+
+Python 3: Introdução a Orientação a objetos
+
+https://cursos.alura.com.br/course/python-3-intro-orientacao-objetos
+
+Python 3: Avançando na orientação a objetos
+
+https://cursos.alura.com.br/course/python-3-avancando-orientacao-objetos
+
+String em Python: Extraindo informações de uma URL
+
+https://cursos.alura.com.br/course/string-python-extraindo-informacoes-url
+
+Python Collections parte 1: Listas e tuplas
+
+https://cursos.alura.com.br/course/python-collections-listas-e-tuplas
+
+Python Collections parte 2: Conjuntos e dicionários
+
+https://cursos.alura.com.br/course/python-collections-conjuntos-e-dicionarios
+
 
 
 [] 21/08/2021- sabado - Curso 1 - 
