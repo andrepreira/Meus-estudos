@@ -95,17 +95,19 @@ https://cursos.alura.com.br/course/python-3-introducao-a-nova-versao-da-linguage
 https://cursos.alura.com.br/course/python-3-avancando-na-linguagem/task/25110
 
 
-[] 20/08/2021- sexta - Curso 5 - 
+[x] 20/08/2021- sexta - Curso 5 - 
 
 Python 3: Introdução a Orientação a objetos
 
-https://cursos.alura.com.br/course/python-3-intro-orientacao-objetos
+https://cursos.alura.com.br/course/python-3-intro-orientacao-objetos - FEITO
 
 Python 3: Avançando na orientação a objetos
 
 https://cursos.alura.com.br/course/python-3-avancando-orientacao-objetos
 
-String em Python: Extraindo informações de uma URL
+
+
+[] 21/08/2021- sabado - Curso 1 - String em Python: Extraindo informações de uma URL
 
 https://cursos.alura.com.br/course/string-python-extraindo-informacoes-url
 
@@ -118,20 +120,6 @@ Python Collections parte 2: Conjuntos e dicionários
 https://cursos.alura.com.br/course/python-collections-conjuntos-e-dicionarios
 
 
-
-[] 21/08/2021- sabado - Curso 1 - 
-
-JavaScript na Web: Validação de Formulários e HTML5
-
-https://cursos.alura.com.br/course/javascript-web-validacao-formularios-html5
-
-jQuery: Domine a biblioteca mais popular do mercado parte 1
-
-https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado
-
-jQuery: Avance na biblioteca mais popular do mercado parte 2
-
-https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado-parte-2
 
 ### **Semana 5**
 
@@ -182,6 +170,16 @@ https://cursos.alura.com.br/course/fundamentos-javascript-arrays
 https://cursos.alura.com.br/course/fundamentos-javascript-objetos
 
 
-[] 27/08/2021- sexta - Curso 1 - 
+[] 27/08/2021- sexta - Curso 1 - JavaScript na Web: Validação de Formulários e HTML5
+
+https://cursos.alura.com.br/course/javascript-web-validacao-formularios-html5
+
+jQuery: Domine a biblioteca mais popular do mercado parte 1
+
+https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado
+
+jQuery: Avance na biblioteca mais popular do mercado parte 2
+
+https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado-parte-2
 
 [] 28/08/2021- sabado - Curso 2 - 
