@@ -107,18 +107,27 @@ https://cursos.alura.com.br/course/python-3-avancando-orientacao-objetos
 
 
 
-[] 21/08/2021- sabado - Curso 1 - String em Python: Extraindo informações de uma URL
+[x] 21/08/2021- sabado - Curso 1 - String em Python: Extraindo informações de uma URL  - FEITO
 
 https://cursos.alura.com.br/course/string-python-extraindo-informacoes-url
 
-Python Collections parte 1: Listas e tuplas
+Python Collections parte 1: Listas e tuplas -FEITO
 
-https://cursos.alura.com.br/course/python-collections-listas-e-tuplas
+https://cursos.alura.com.br/course/python-collections-listas-e-tuplas - FEITO
 
-Python Collections parte 2: Conjuntos e dicionários
+Python Collections parte 2: Conjuntos e dicionários - FEITO
 
 https://cursos.alura.com.br/course/python-collections-conjuntos-e-dicionarios
 
+[x] domingao-do-python
+
+Testes automatizados: TDD com Python
+
+https://cursos.alura.com.br/course/tdd-com-python/task/48396
+
+Introdução ao Django 3: Modelo, Rotas e Views
+
+https://cursos.alura.com.br/course/fundamentos-django-2/task/64273
 
 
 ### **Semana 5**
@@ -139,9 +148,33 @@ Mocks em PHP: Entenda os dublês de testes
 
 https://cursos.alura.com.br/course/php-mocks?preRequirementFrom=object-calisthenics-exercitando-orientacao-objetos
 
+SOLID com PHP: Princípios da programação orientada a objetos
+
+https://cursos.alura.com.br/course/solid-php-principios-orientacao-a-objetos
+
 Object Calisthenics: Exercitando a Orientação a Objetos
 
 https://cursos.alura.com.br/course/object-calisthenics-exercitando-orientacao-objetos
+
+FAZER O RESTO DA FORMAÇÃO ARQUITETO PHP
+
+https://cursos.alura.com.br/formacao-arquiteto-php
+
+PHP REATIVO
+
+PHP I/O: Trabalhando com arquivos e streams
+
+https://cursos.alura.com.br/course/php-io-arquivos-streams?preRequirementFrom=php-reativo-programacao-assincrona-tempo-real
+
+PHP Reativo: Programação assíncrona em tempo real
+
+https://cursos.alura.com.br/course/php-reativo-programacao-assincrona-tempo-real?preRequirementFrom=swoole-php-servidor-assincrono-corrotinas-php
+
+Swoole PHP: Servidor assíncrono e corrotinas com PHP
+
+https://cursos.alura.com.br/course/swoole-php-servidor-assincrono-corrotinas-php
+
+
 
 [] 24/08/2021- terça - Curso 3 -  Clojure: Introdução à programação funcional
 
