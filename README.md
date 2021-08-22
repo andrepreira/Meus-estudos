@@ -13,4 +13,6 @@
 * Golang
 * jQuery
 * HTML/ CSS
-* SQL
+* MySQL
+* Postgress
+* MongoDB
