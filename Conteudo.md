@@ -79,6 +79,10 @@ dotNet
 
 Curso 5 |  NodeJS, Banco de dados, Python e DataScience
 
+*Formação Django
+
+https://cursos.alura.com.br/formacao-django
+
 * Javascript OO - 
 
 https://cursos.alura.com.br/course/javascript-introducao?preRequirementFrom=javascritpt-orientacao-objetos
