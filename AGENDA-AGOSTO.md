@@ -121,13 +121,9 @@ https://cursos.alura.com.br/course/python-collections-conjuntos-e-dicionarios
 
 [x] domingao-do-python
 
-Testes automatizados: TDD com Python
+Testes automatizados: TDD com Python - FEITO
 
 https://cursos.alura.com.br/course/tdd-com-python/task/48396
-
-Introdução ao Django 3: Modelo, Rotas e Views
-
-https://cursos.alura.com.br/course/fundamentos-django-2/task/64273
 
 
 ### **Semana 5**
@@ -190,9 +186,11 @@ https://cursos.alura.com.br/course/nodejs-api-rest-padronizada-escalavel/task/80
 
 Fim da API Petshop
 
-
 https://cursos.alura.com.br/course/nodejs-api-rest-controle-versao
 
+Introdução ao Django 3: Modelo, Rotas e Views
+
+https://cursos.alura.com.br/course/fundamentos-django-2/task/64273
 
 JS POO
 
