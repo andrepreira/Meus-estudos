@@ -132,6 +132,14 @@ https://cursos.alura.com.br/course/tdd-com-python/task/48396
 
 https://cursos.alura.com.br/course/php-model-view-controller/task/55927
 
+PHP e PDO: Trabalhando com bancos de dados
+
+https://cursos.alura.com.br/course/php-pdo-banco-de-dados/task/72921
+
+Doctrine ORM: Acesse o banco com Mapeamento Objeto-Relacional
+
+https://cursos.alura.com.br/course/php-doctrine-mapeamento-objeto-relacional/task/51958
+
 PHP Composer: Dependências, Autoload e Publicação
 
 https://cursos.alura.com.br/course/php-composer?preRequirementFrom=phpunit-tdd
