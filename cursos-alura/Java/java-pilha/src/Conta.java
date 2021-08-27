@@ -1,7 +1,7 @@
 
-public class Conta {
+public class Conta extends Exception{ //checked
 
-	public void depoista() {
+	public void depoista() throws MinhaExcecao {
 		
 	}
 }
