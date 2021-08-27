@@ -128,7 +128,67 @@ https://cursos.alura.com.br/course/tdd-com-python/task/48396
 
 ### **Semana 5**
 
-[] 23/08/2021- segunda - Curso 2 - MVC com PHP: Entenda o padrão Model-View-Controller
+[] 23/08/2021- segunda - Curso 2 - NÃO ESTUDEI
+
+[] 24/08/2021- terça - Curso 3 - NÃO ESTUDEI
+
+[] 25/08/2021- quarta - Curso 4 -  NÃO ESTUDEI
+
+[x] 26/08/2021- quinta - Curso 5 - Java Exceções: Aprenda a criar, lançar e controlar exceções -  https://cursos.alura.com.br/course/java-excecoes/task/37241
+
+[] 27/08/2021- sexta - Curso 1 - 
+
+[] 28/08/2021- sabado - Curso 2 - 
+
+
+
+
+
+
+JavaScript na Web: Validação de Formulários e HTML5
+
+https://cursos.alura.com.br/course/javascript-web-validacao-formularios-html5
+
+jQuery: Domine a biblioteca mais popular do mercado parte 1
+
+https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado
+
+jQuery: Avance na biblioteca mais popular do mercado parte 2
+
+https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado-parte-2
+
+
+
+
+
+ NodeJS
+
+NodeJS: Crie uma API REST padronizada e escalável
+
+https://cursos.alura.com.br/course/nodejs-api-rest-padronizada-escalavel/task/80280
+
+Fim da API Petshop
+
+https://cursos.alura.com.br/course/nodejs-api-rest-controle-versao
+
+Introdução ao Django 3: Modelo, Rotas e Views
+
+https://cursos.alura.com.br/course/fundamentos-django-2/task/64273
+
+JS POO
+
+https://cursos.alura.com.br/course/fundamentos-javascript-tipos-variaveis-funcoes
+
+https://cursos.alura.com.br/course/fundamentos-javascript-arrays
+
+https://cursos.alura.com.br/course/fundamentos-javascript-objetos
+
+
+
+
+
+
+MVC com PHP: Entenda o padrão Model-View-Controller
 
 https://cursos.alura.com.br/course/php-model-view-controller/task/55927
 
@@ -180,45 +240,7 @@ https://cursos.alura.com.br/course/swoole-php-servidor-assincrono-corrotinas-php
 
 
 
-[] 24/08/2021- terça - Curso 3 -  Clojure: Introdução à programação funcional
+
+ Clojure: Introdução à programação funcional
 
 https://cursos.alura.com.br/course/clojure-introducao-a-programacao-funcional/task/60928
-
-[] 25/08/2021- quarta - Curso 4 - Java Exceções: Aprenda a criar, lançar e controlar exceções -  https://cursos.alura.com.br/course/java-excecoes/task/37241
-
-[] 26/08/2021- quinta - Curso 5 - NodeJS
-
-NodeJS: Crie uma API REST padronizada e escalável
-
-https://cursos.alura.com.br/course/nodejs-api-rest-padronizada-escalavel/task/80280
-
-Fim da API Petshop
-
-https://cursos.alura.com.br/course/nodejs-api-rest-controle-versao
-
-Introdução ao Django 3: Modelo, Rotas e Views
-
-https://cursos.alura.com.br/course/fundamentos-django-2/task/64273
-
-JS POO
-
-https://cursos.alura.com.br/course/fundamentos-javascript-tipos-variaveis-funcoes
-
-https://cursos.alura.com.br/course/fundamentos-javascript-arrays
-
-https://cursos.alura.com.br/course/fundamentos-javascript-objetos
-
-
-[] 27/08/2021- sexta - Curso 1 - JavaScript na Web: Validação de Formulários e HTML5
-
-https://cursos.alura.com.br/course/javascript-web-validacao-formularios-html5
-
-jQuery: Domine a biblioteca mais popular do mercado parte 1
-
-https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado
-
-jQuery: Avance na biblioteca mais popular do mercado parte 2
-
-https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado-parte-2
-
-[] 28/08/2021- sabado - Curso 2 - 
