@@ -141,10 +141,6 @@ https://cursos.alura.com.br/course/tdd-com-python/task/48396
 [] 28/08/2021- sabado - Curso 2 - 
 
 
-
-
-
-
 JavaScript na Web: Validação de Formulários e HTML5
 
 https://cursos.alura.com.br/course/javascript-web-validacao-formularios-html5
