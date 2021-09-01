@@ -136,9 +136,21 @@ https://cursos.alura.com.br/course/tdd-com-python/task/48396
 
 [x] 26/08/2021- quinta - Curso 5 - Java Exceções: Aprenda a criar, lançar e controlar exceções -  https://cursos.alura.com.br/course/java-excecoes/task/37241
 
-[] 27/08/2021- sexta - Curso 1 - 
+[] 27/08/2021- sexta - Curso 1 - NÃO ESTUDEI
 
-[] 28/08/2021- sabado - Curso 2 - 
+[] 28/08/2021- sabado - Curso  - NÃO ESTUDEI
+
+[] 29/08/2021- sabado - Curso  - NÃO ESTUDEI
+
+[] 30/08/2021- sabado - Curso  - NÃO ESTUDEI
+
+[] 28/08/2021- sabado - Curso  - NÃO ESTUDEI
+
+[] 01/09/2021- sabado - Curso  - 
+
+PHP Composer: Dependências, Autoload e Publicação
+
+https://cursos.alura.com.br/course/php-composer?preRequirementFrom=phpunit-tdd
 
 
 JavaScript na Web: Validação de Formulários e HTML5
@@ -152,10 +164,6 @@ https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado
 jQuery: Avance na biblioteca mais popular do mercado parte 2
 
 https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado-parte-2
-
-
-
-
 
  NodeJS
 
@@ -196,9 +204,6 @@ Doctrine ORM: Acesse o banco com Mapeamento Objeto-Relacional
 
 https://cursos.alura.com.br/course/php-doctrine-mapeamento-objeto-relacional/task/51958
 
-PHP Composer: Dependências, Autoload e Publicação
-
-https://cursos.alura.com.br/course/php-composer?preRequirementFrom=phpunit-tdd
 
 PHP e TDD: Testes com PHPUnit
 
@@ -233,9 +238,6 @@ https://cursos.alura.com.br/course/php-reativo-programacao-assincrona-tempo-real
 Swoole PHP: Servidor assíncrono e corrotinas com PHP
 
 https://cursos.alura.com.br/course/swoole-php-servidor-assincrono-corrotinas-php
-
-
-
 
  Clojure: Introdução à programação funcional
 
