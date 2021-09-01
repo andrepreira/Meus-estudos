@@ -4,7 +4,7 @@
 
 ### **Semana 0**
 
-[x] 29/07/2021- quinta - Curso 1 - HTML5 e CSS3 parte 2: Posicionamento, listas e navegação
+[] 29/07/2021- quinta - Curso 1 - HTML5 e CSS3 parte 2: Posicionamento, listas e navegação
 
 [] 30/07/2021- sexta - Curso 2 - PHP: Manipulando coleções com Arrays
 
