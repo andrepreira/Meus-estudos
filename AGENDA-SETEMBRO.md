@@ -1,24 +1,112 @@
 # ESTUDO DIÁRIO 1h 30 minutos
 
-## Mês de Agosto
+## Mês de Setembro
 
 Programação
 
 https://www.alura.com.br/cursos-online-programacao?gclid=CjwKCAjwmeiIBhA6EiwA-uaeFRgn4uvnQim45svS3lYdsAcM11a-gottbHEBRvzQLnJQD-toFC_NQhoC8G0QAvD_BwE
 
-### **Semana 0**
 
-[x] 29/07/2021- quinta - Curso 1 - HTML5 e CSS3 parte 2: Posicionamento, listas e navegação
+### **Semana 1**
 
-https://cursos.alura.com.br/course/html5-css3-posicionamento-listas-navegacao
+[x] 01/09/2021- segunda - Curso  - SOLID com PHP: Princípios da programação orientada a objetos
 
-[x] 30/07/2021- sexta - Curso 2 - PHP: Manipulando coleções com Arrays
+https://cursos.alura.com.br/course/solid-php-principios-orientacao-a-objetos
 
-https://cursos.alura.com.br/course/php-arrays/task/55498
+[x] 02/09/2021 - Curso  - PHP e TDD: Testes com PHPUnit
 
-[x] 31/07/2021- Curso 3 - sabado - Clojure: Introdução à programação funcional
+https://cursos.alura.com.br/course/phpunit-tdd
 
-https://cursos.alura.com.br/course/clojure-introducao-a-programacao-funcional/task/60374
+[] 03/09/2021 - Curso  - NÃO ESTUDEI
+
+[] 04/09/2021 - Curso  - Mocks em PHP: Entenda os dublês de testes
+
+https://cursos.alura.com.br/course/php-mocks
+
+Object Calisthenics: Exercitando a Orientação a Objetos
+
+https://cursos.alura.com.br/course/object-calisthenics-exercitando-orientacao-objetos/task/81923
+
+Design Patterns em PHP: Padrões comportamentais
+
+https://cursos.alura.com.br/course/php-design-pattern-comportamental/task/70660
+
+Design Patterns em PHP: Padrões estruturais
+
+https://cursos.alura.com.br/course/php-design-pattern-estrutural/task/72284
+
+Design Patterns em PHP: Padrões criacionais
+
+https://cursos.alura.com.br/course/php-design-pattern-criacional/task/72656
+
+
+Testes de integração com PHP: Testando o acesso à API e ao banco de dados
+
+https://cursos.alura.com.br/course/php-testes-integracao/task/64444
+
+
+PHP e Behavior Driven Development: BDD com Behat
+
+https://cursos.alura.com.br/course/php-introducao-bdd/task/76358
+
+
+PHP e Clean Architecture: Descomplicando arquitetura de software
+
+https://cursos.alura.com.br/course/php-introducao-clean-achitecture/task/75774
+
+PHP e Domain Driven Design: Apresentando os conceitos
+
+https://cursos.alura.com.br/course/domain-driven-design-php/task/76383
+
+[] 05/09/2021 - Curso  - 
+
+[] 06/09/2021 - Curso  - 
+
+[] 07/09/2021 - Curso  - 
+
+### **Semana 3**
+
+[] 09/09/2021- segunda - Curso  - 
+
+[] 10/09/2021- terça - Curso  - 
+
+[] 11/09/2021- quarta - Curso  - 
+
+[] 12/09/2021- quinta - Curso  - 
+
+[] 13/09/2021- sexta - Curso  - 
+
+[] 14/09/2021- sabado - Curso  - 
+
+
+### **Semana 4**
+
+[] 16/09/2021- segunda - Curso  - 
+
+[] 17/09/2021- terça - Curso  - 
+
+[] 18/09/2021- quarta - Curso  - 
+
+[] 19/09/2021- quinta - Curso  - 
+
+[] 20/09/2021- sexta - Curso  - 
+
+[] 21/09/2021- sabado - Curso  - 
+
+### **Semana 5**
+
+[] 23/09/2021- segunda - Curso  - 
+
+[] 24/09/2021- terça - Curso  - 
+
+[] 25/09/2021- quarta - Curso  - 
+
+[] 26/09/2021- quinta - Curso  - 
+
+[] 27/09/2021- sexta - Curso  - 
+
+[] 28/09/2021- sabado - Curso  - 
+
 
 ### **Semana 1**
 

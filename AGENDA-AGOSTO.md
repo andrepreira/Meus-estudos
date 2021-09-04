@@ -146,99 +146,10 @@ https://cursos.alura.com.br/course/tdd-com-python/task/48396
 
 [] 28/08/2021- sabado - Curso  - NÃO ESTUDEI
 
-[] 01/09/2021- sabado - Curso  - 
+[x] 31/08/2021- sabado - Curso  - 
 
 PHP Composer: Dependências, Autoload e Publicação
 
 https://cursos.alura.com.br/course/php-composer?preRequirementFrom=phpunit-tdd
 
 
-JavaScript na Web: Validação de Formulários e HTML5
-
-https://cursos.alura.com.br/course/javascript-web-validacao-formularios-html5
-
-jQuery: Domine a biblioteca mais popular do mercado parte 1
-
-https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado
-
-jQuery: Avance na biblioteca mais popular do mercado parte 2
-
-https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado-parte-2
-
- NodeJS
-
-NodeJS: Crie uma API REST padronizada e escalável
-
-https://cursos.alura.com.br/course/nodejs-api-rest-padronizada-escalavel/task/80280
-
-Fim da API Petshop
-
-https://cursos.alura.com.br/course/nodejs-api-rest-controle-versao
-
-Introdução ao Django 3: Modelo, Rotas e Views
-
-https://cursos.alura.com.br/course/fundamentos-django-2/task/64273
-
-JS POO
-
-https://cursos.alura.com.br/course/fundamentos-javascript-tipos-variaveis-funcoes
-
-https://cursos.alura.com.br/course/fundamentos-javascript-arrays
-
-https://cursos.alura.com.br/course/fundamentos-javascript-objetos
-
-
-
-
-
-
-MVC com PHP: Entenda o padrão Model-View-Controller
-
-https://cursos.alura.com.br/course/php-model-view-controller/task/55927
-
-PHP e PDO: Trabalhando com bancos de dados
-
-https://cursos.alura.com.br/course/php-pdo-banco-de-dados/task/72921
-
-Doctrine ORM: Acesse o banco com Mapeamento Objeto-Relacional
-
-https://cursos.alura.com.br/course/php-doctrine-mapeamento-objeto-relacional/task/51958
-
-
-PHP e TDD: Testes com PHPUnit
-
-https://cursos.alura.com.br/course/phpunit-tdd?preRequirementFrom=php-mocks
-
-Mocks em PHP: Entenda os dublês de testes
-
-https://cursos.alura.com.br/course/php-mocks?preRequirementFrom=object-calisthenics-exercitando-orientacao-objetos
-
-SOLID com PHP: Princípios da programação orientada a objetos
-
-https://cursos.alura.com.br/course/solid-php-principios-orientacao-a-objetos
-
-Object Calisthenics: Exercitando a Orientação a Objetos
-
-https://cursos.alura.com.br/course/object-calisthenics-exercitando-orientacao-objetos
-
-FAZER O RESTO DA FORMAÇÃO ARQUITETO PHP
-
-https://cursos.alura.com.br/formacao-arquiteto-php
-
-PHP REATIVO
-
-PHP I/O: Trabalhando com arquivos e streams
-
-https://cursos.alura.com.br/course/php-io-arquivos-streams?preRequirementFrom=php-reativo-programacao-assincrona-tempo-real
-
-PHP Reativo: Programação assíncrona em tempo real
-
-https://cursos.alura.com.br/course/php-reativo-programacao-assincrona-tempo-real?preRequirementFrom=swoole-php-servidor-assincrono-corrotinas-php
-
-Swoole PHP: Servidor assíncrono e corrotinas com PHP
-
-https://cursos.alura.com.br/course/swoole-php-servidor-assincrono-corrotinas-php
-
- Clojure: Introdução à programação funcional
-
-https://cursos.alura.com.br/course/clojure-introducao-a-programacao-funcional/task/60928
