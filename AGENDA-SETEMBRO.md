@@ -19,15 +19,29 @@ https://cursos.alura.com.br/course/phpunit-tdd
 
 [] 03/09/2021 - Curso  - NÃO ESTUDEI
 
-[] 04/09/2021 - Curso  - Mocks em PHP: Entenda os dublês de testes
+[x] 04/09/2021 - Curso  - Mocks em PHP: Entenda os dublês de testes
 
 https://cursos.alura.com.br/course/php-mocks
 
+
+[x] 05/09/2021 - Curso  - Mocks em PHP: Entenda os dublês de testes
+
+https://cursos.alura.com.br/course/php-mocks - FIM
+
+
+[x] 06/09/2021 - Curso  - 
 Object Calisthenics: Exercitando a Orientação a Objetos
 
 https://cursos.alura.com.br/course/object-calisthenics-exercitando-orientacao-objetos/task/81923
 
-Design Patterns em PHP: Padrões comportamentais
+[x] 11/09/2021 - Curso  - 
+Object Calisthenics: Exercitando a Orientação a Objetos
+
+https://cursos.alura.com.br/course/object-calisthenics-exercitando-orientacao-objetos/task/81923
+
+
+
+[] 12/09/2021 - Curso  - Design Patterns em PHP: Padrões comportamentais
 
 https://cursos.alura.com.br/course/php-design-pattern-comportamental/task/70660
 
