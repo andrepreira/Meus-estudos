@@ -41,9 +41,13 @@ https://cursos.alura.com.br/course/object-calisthenics-exercitando-orientacao-ob
 
 
 
-[] 12/09/2021 - Curso  - Design Patterns em PHP: Padrões comportamentais
+[x] 12/09/2021 - Curso  - Design Patterns em PHP: Padrões comportamentais
 
 https://cursos.alura.com.br/course/php-design-pattern-comportamental/task/70660
+
+[] 13/09/2021 - Curso  - Design Patterns em PHP: Padrões comportamentais
+
+https://cursos.alura.com.br/course/php-design-pattern-comportamental/task/71632
 
 Design Patterns em PHP: Padrões estruturais
 
