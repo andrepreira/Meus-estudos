@@ -45,7 +45,17 @@ https://cursos.alura.com.br/course/object-calisthenics-exercitando-orientacao-ob
 
 https://cursos.alura.com.br/course/php-design-pattern-comportamental/task/70660
 
-[] 13/09/2021 - Curso  - Design Patterns em PHP: Padrões comportamentais
+[x] 15/09/2021 - Curso  - jQuery: Domine a biblioteca mais popular do mercado parte 1
+
+https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado/task/20685
+
+
+[x] 16/09/2021 - Curso  - jQuery: Domine a biblioteca mais popular do mercado parte 1
+
+https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado/task/20688
+
+
+Design Patterns em PHP: Padrões comportamentais
 
 https://cursos.alura.com.br/course/php-design-pattern-comportamental/task/71632
 
