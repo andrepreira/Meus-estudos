@@ -54,6 +54,14 @@ https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado/task/20685
 
 https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado/task/20688
 
+PHP: Programação Funcional - inicio
+
+https://cursos.alura.com.br/course/php-programacao-funcional/task/84721
+
+[x] 17/09/2021 - Curso - PHP: Programação Funcional
+
+https://cursos.alura.com.br/course/php-programacao-funcional/task/84721
+
 
 Design Patterns em PHP: Padrões comportamentais
 
