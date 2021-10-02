@@ -1,0 +1,678 @@
+version: 1
+creator: xdebug 3.1.0beta2 (PHP 7.4.23)
+cmd: C:\Users\andre.pereira\Desktop\Meus-estudos\cursos-alura\PHP\php-xdebug\atualiza-leilao.php
+part: 1
+positions: line
+
+events: Time_(10ns) Memory_(bytes)
+
+fl=(2) C:\Users\andre.pereira\Desktop\Meus-estudos\cursos-alura\PHP\php-xdebug\vendor\composer\autoload_real.php
+fn=(1) require_once::C:\Users\andre.pereira\Desktop\Meus-estudos\cursos-alura\PHP\php-xdebug\vendor\composer\autoload_real.php
+1 1000 0
+
+fl=(3) C:\Users\andre.pereira\Desktop\Meus-estudos\cursos-alura\PHP\php-xdebug\vendor\composer\platform_check.php
+fn=(2) require::C:\Users\andre.pereira\Desktop\Meus-estudos\cursos-alura\PHP\php-xdebug\vendor\composer\platform_check.php
+1 1990 0
+
+fl=(1) php:internal
+fn=(3) php::spl_autoload_register
+27 2410 520
+
+fl=(4) C:\Users\andre.pereira\Desktop\Meus-estudos\cursos-alura\PHP\php-xdebug\vendor\composer\ClassLoader.php
+fn=(4) require::C:\Users\andre.pereira\Desktop\Meus-estudos\cursos-alura\PHP\php-xdebug\vendor\composer\ClassLoader.php
+1 70 0
+
+fl=(2)
+fn=(5) ComposerAutoloaderInit6ae8ffec6a3c3ea98c105cd4dc602318::loadClassLoader
+9 61330 48200
+cfl=(4)
+cfn=(4)
+calls=1 0 0
+12 70 0
+
+fl=(1)
+fn=(6) php::spl_autoload_call
+28 680 0
+cfl=(2)
+cfn=(5)
+calls=1 0 0
+28 61400 48200
+
+fl=(1)
+fn=(7) php::dirname
+28 290 160
+
+fl=(1)
+fn=(7)
+28 60 112
+
+fl=(4)
+fn=(8) Composer\Autoload\ClassLoader->__construct
+106 230 0
+
+fl=(1)
+fn=(9) php::spl_autoload_unregister
+29 100 0
+
+fl=(1)
+fn=(10) php::function_exists
+31 20 0
+
+fl=(5) C:\Users\andre.pereira\Desktop\Meus-estudos\cursos-alura\PHP\php-xdebug\vendor\composer\autoload_static.php
+fn=(11) require::C:\Users\andre.pereira\Desktop\Meus-estudos\cursos-alura\PHP\php-xdebug\vendor\composer\autoload_static.php
+1 80 0
+
+fl=(1)
+fn=(12) php::Closure::bind
+637 120 920
+
+fl=(5)
+fn=(13) Composer\Autoload\ComposerStaticInit6ae8ffec6a3c3ea98c105cd4dc602318::getInitializer
+629 470 0
+cfl=(1)
+cfn=(12)
+calls=1 0 0
+637 120 920
+
+fl=(5)
+fn=(14) Composer\Autoload\ClassLoader::Composer\Autoload\{closure:C:\Users\andre.pereira\Desktop\Meus-estudos\cursos-alura\PHP\php-xdebug\vendor\composer\autoload_static.php:631-637}
+631 290 0
+
+fl=(1)
+fn=(3)
+391 130 128
+
+fl=(4)
+fn=(15) Composer\Autoload\ClassLoader->register
+389 780 376
+cfl=(1)
+cfn=(3)
+calls=1 0 0
+391 130 128
+
+fl=(1)
+fn=(10)
+14 50 0
+
+fl=(6) C:\Users\andre.pereira\Desktop\Meus-estudos\cursos-alura\PHP\php-xdebug\vendor\symfony\polyfill-ctype\bootstrap.php
+fn=(16) require::C:\Users\andre.pereira\Desktop\Meus-estudos\cursos-alura\PHP\php-xdebug\vendor\symfony\polyfill-ctype\bootstrap.php
+1 580 0
+cfl=(1)
+cfn=(10)
+calls=1 0 0
+14 50 0
+
+fl=(2)
+fn=(17) composerRequire6ae8ffec6a3c3ea98c105cd4dc602318
+68 314290 8776
+cfl=(6)
+cfn=(16)
+calls=1 0 0
+71 630 0
+
+fl=(1)
+fn=(10)
+7 40 0
+
+fl=(7) C:\Users\andre.pereira\Desktop\Meus-estudos\cursos-alura\PHP\php-xdebug\vendor\myclabs\deep-copy\src\DeepCopy\deep_copy.php
+fn=(18) require::C:\Users\andre.pereira\Desktop\Meus-estudos\cursos-alura\PHP\php-xdebug\vendor\myclabs\deep-copy\src\DeepCopy\deep_copy.php
+1 390 0
+cfl=(1)
+cfn=(10)
+calls=1 0 0
+7 40 0
+
+fl=(2)
+fn=(17)
+68 627280 1648
+cfl=(7)
+cfn=(18)
+calls=1 0 0
+71 430 0
+
+fl=(2)
+fn=(19) ComposerAutoloaderInit6ae8ffec6a3c3ea98c105cd4dc602318::getLoader
+19 180110 187800
+cfl=(3)
+cfn=(2)
+calls=1 0 0
+25 1990 0
+cfl=(1)
+cfn=(3)
+calls=1 0 0
+27 2410 520
+cfl=(1)
+cfn=(6)
+calls=1 0 0
+28 62080 48200
+cfl=(1)
+cfn=(7)
+calls=1 0 0
+28 290 160
+cfl=(1)
+cfn=(7)
+calls=1 0 0
+28 60 112
+cfl=(4)
+cfn=(8)
+calls=1 0 0
+28 230 0
+cfl=(1)
+cfn=(9)
+calls=1 0 0
+29 100 0
+cfl=(1)
+cfn=(10)
+calls=1 0 0
+31 20 0
+cfl=(5)
+cfn=(11)
+calls=1 0 0
+33 80 0
+cfl=(5)
+cfn=(13)
+calls=1 0 0
+35 590 920
+cfl=(5)
+cfn=(14)
+calls=1 0 0
+35 290 0
+cfl=(4)
+cfn=(15)
+calls=1 0 0
+53 910 504
+cfl=(2)
+cfn=(17)
+calls=1 0 0
+61 314920 8776
+cfl=(2)
+cfn=(17)
+calls=1 0 0
+61 627710 1648
+
+fl=(8) C:\Users\andre.pereira\Desktop\Meus-estudos\cursos-alura\PHP\php-xdebug\vendor\autoload.php
+fn=(20) require_once::C:\Users\andre.pereira\Desktop\Meus-estudos\cursos-alura\PHP\php-xdebug\vendor\autoload.php
+1 187740 14944
+cfl=(2)
+cfn=(1)
+calls=1 0 0
+5 1000 0
+cfl=(2)
+cfn=(19)
+calls=1 0 0
+7 1191790 247576
+
+fl=(1)
+fn=(21) php::PDO->__construct
+8 11010 64
+
+fl=(1)
+fn=(22) php::PDO->exec
+9 20100 0
+
+fl=(1)
+fn=(23) php::strtr
+496 270 56
+
+fl=(1)
+fn=(24) php::strrpos
+501 130 0
+
+fl=(1)
+fn=(25) php::substr
+502 30 48
+
+fl=(1)
+fn=(24)
+501 10 0
+
+fl=(1)
+fn=(25)
+502 10 40
+
+fl=(1)
+fn=(25)
+505 80 48
+
+fl=(1)
+fn=(26) php::file_exists
+507 177000 0
+
+fl=(4)
+fn=(27) Composer\Autoload\ClassLoader->findFileWithExtension
+493 140200 0
+cfl=(1)
+cfn=(23)
+calls=1 0 0
+496 270 56
+cfl=(1)
+cfn=(24)
+calls=1 0 0
+501 130 0
+cfl=(1)
+cfn=(25)
+calls=1 0 0
+502 30 48
+cfl=(1)
+cfn=(24)
+calls=1 0 0
+501 10 0
+cfl=(1)
+cfn=(25)
+calls=1 0 0
+502 10 40
+cfl=(1)
+cfn=(25)
+calls=1 0 0
+505 80 48
+cfl=(1)
+cfn=(26)
+calls=1 0 0
+507 177000 0
+
+fl=(4)
+fn=(28) Composer\Autoload\ClassLoader->findFile
+443 1140 0
+cfl=(4)
+cfn=(27)
+calls=1 0 0
+459 317730 160
+
+fl=(9) C:\Users\andre.pereira\Desktop\Meus-estudos\cursos-alura\PHP\php-xdebug\src\Model\Leilao.php
+fn=(29) include::C:\Users\andre.pereira\Desktop\Meus-estudos\cursos-alura\PHP\php-xdebug\src\Model\Leilao.php
+1 120 0
+
+fl=(4)
+fn=(30) Composer\Autoload\includeFile
+569 156210 10280
+cfl=(9)
+cfn=(29)
+calls=1 0 0
+571 120 0
+
+fl=(4)
+fn=(31) Composer\Autoload\ClassLoader->loadClass
+425 940 0
+cfl=(4)
+cfn=(28)
+calls=1 0 0
+427 318870 160
+cfl=(4)
+cfn=(30)
+calls=1 0 0
+428 156330 10280
+
+fl=(1)
+fn=(6)
+17 610 0
+cfl=(4)
+cfn=(31)
+calls=1 0 0
+17 476140 10280
+
+fl=(1)
+fn=(32) php::DateTimeImmutable->__construct
+23 2700 2560
+
+fl=(9)
+fn=(33) Alura\Leilao\Model\Leilao->__construct
+18 610 48
+cfl=(1)
+cfn=(32)
+calls=1 0 0
+23 2700 2560
+
+fl=(1)
+fn=(23)
+496 50 48
+
+fl=(1)
+fn=(24)
+501 20 0
+
+fl=(1)
+fn=(25)
+502 20 48
+
+fl=(1)
+fn=(24)
+501 10 0
+
+fl=(1)
+fn=(25)
+502 10 40
+
+fl=(1)
+fn=(25)
+505 10 40
+
+fl=(1)
+fn=(26)
+507 22310 0
+
+fl=(4)
+fn=(27)
+493 1180 0
+cfl=(1)
+cfn=(23)
+calls=1 0 0
+496 50 48
+cfl=(1)
+cfn=(24)
+calls=1 0 0
+501 20 0
+cfl=(1)
+cfn=(25)
+calls=1 0 0
+502 20 48
+cfl=(1)
+cfn=(24)
+calls=1 0 0
+501 10 0
+cfl=(1)
+cfn=(25)
+calls=1 0 0
+502 10 40
+cfl=(1)
+cfn=(25)
+calls=1 0 0
+505 10 40
+cfl=(1)
+cfn=(26)
+calls=1 0 0
+507 22310 0
+
+fl=(4)
+fn=(28)
+443 550 0
+cfl=(4)
+cfn=(27)
+calls=1 0 0
+459 23610 160
+
+fl=(10) C:\Users\andre.pereira\Desktop\Meus-estudos\cursos-alura\PHP\php-xdebug\src\Dao\Leilao.php
+fn=(34) include::C:\Users\andre.pereira\Desktop\Meus-estudos\cursos-alura\PHP\php-xdebug\src\Dao\Leilao.php
+1 80 0
+
+fl=(4)
+fn=(30)
+569 138570 11256
+cfl=(10)
+cfn=(34)
+calls=1 0 0
+571 80 0
+
+fl=(4)
+fn=(31)
+425 570 0
+cfl=(4)
+cfn=(28)
+calls=1 0 0
+427 24160 160
+cfl=(4)
+cfn=(30)
+calls=1 0 0
+428 138650 11256
+
+fl=(1)
+fn=(6)
+18 410 0
+cfl=(4)
+cfn=(31)
+calls=1 0 0
+18 163380 11256
+
+fl=(10)
+fn=(35) Alura\Leilao\Dao\Leilao->__construct
+11 80 0
+
+fl=(1)
+fn=(36) php::PDO->prepare
+19 2440 600
+
+fl=(9)
+fn=(37) Alura\Leilao\Model\Leilao->recuperarDescricao
+56 50 0
+
+fl=(1)
+fn=(38) php::PDOStatement->bindValue
+20 510 776
+
+fl=(9)
+fn=(39) Alura\Leilao\Model\Leilao->estaFinalizado
+61 20 0
+
+fl=(1)
+fn=(38)
+21 20 80
+
+fl=(9)
+fn=(40) Alura\Leilao\Model\Leilao->recuperarDataInicio
+66 70 0
+
+fl=(1)
+fn=(41) php::DateTimeImmutable->format
+22 400 256
+
+fl=(1)
+fn=(38)
+22 20 80
+
+fl=(1)
+fn=(42) php::PDOStatement->execute
+23 1890 8
+
+fl=(9)
+fn=(37)
+56 20 0
+
+fl=(9)
+fn=(40)
+66 20 0
+
+fl=(1)
+fn=(43) php::PDO->lastInsertId
+28 60 32
+
+fl=(9)
+fn=(33)
+18 270 0
+
+fl=(10)
+fn=(44) Alura\Leilao\Dao\Leilao->salva
+16 2840 0
+cfl=(1)
+cfn=(36)
+calls=1 0 0
+19 2440 600
+cfl=(9)
+cfn=(37)
+calls=1 0 0
+20 50 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+20 510 776
+cfl=(9)
+cfn=(39)
+calls=1 0 0
+21 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+21 20 80
+cfl=(9)
+cfn=(40)
+calls=1 0 0
+22 70 0
+cfl=(1)
+cfn=(41)
+calls=1 0 0
+22 400 256
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+22 20 80
+cfl=(1)
+cfn=(42)
+calls=1 0 0
+23 1890 8
+cfl=(9)
+cfn=(37)
+calls=1 0 0
+26 20 0
+cfl=(9)
+cfn=(40)
+calls=1 0 0
+27 20 0
+cfl=(1)
+cfn=(43)
+calls=1 0 0
+28 60 32
+cfl=(9)
+cfn=(33)
+calls=1 0 0
+28 270 0
+
+fl=(9)
+fn=(45) Alura\Leilao\Model\Leilao->finaliza
+43 30 0
+
+fl=(1)
+fn=(36)
+72 1030 680
+
+fl=(9)
+fn=(37)
+56 20 0
+
+fl=(1)
+fn=(38)
+73 200 816
+
+fl=(9)
+fn=(40)
+66 10 0
+
+fl=(1)
+fn=(41)
+74 100 256
+
+fl=(1)
+fn=(38)
+74 30 120
+
+fl=(9)
+fn=(39)
+61 20 0
+
+fl=(1)
+fn=(38)
+75 20 120
+
+fl=(9)
+fn=(46) Alura\Leilao\Model\Leilao->recuperarId
+79 30 0
+
+fl=(1)
+fn=(38)
+76 20 112
+
+fl=(1)
+fn=(42)
+77 450 8
+
+fl=(10)
+fn=(47) Alura\Leilao\Dao\Leilao->atualiza
+69 1560 0
+cfl=(1)
+cfn=(36)
+calls=1 0 0
+72 1030 680
+cfl=(9)
+cfn=(37)
+calls=1 0 0
+73 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+73 200 816
+cfl=(9)
+cfn=(40)
+calls=1 0 0
+74 10 0
+cfl=(1)
+cfn=(41)
+calls=1 0 0
+74 100 256
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+74 30 120
+cfl=(9)
+cfn=(39)
+calls=1 0 0
+75 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+75 20 120
+cfl=(9)
+cfn=(46)
+calls=1 0 0
+76 30 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+76 20 112
+cfl=(1)
+cfn=(42)
+calls=1 0 0
+77 450 8
+
+fl=(11) C:\Users\andre.pereira\Desktop\Meus-estudos\cursos-alura\PHP\php-xdebug\atualiza-leilao.php
+fn=(48) {main}
+1 172580 1008
+cfl=(8)
+cfn=(20)
+calls=1 0 0
+6 1380530 262520
+cfl=(1)
+cfn=(21)
+calls=1 0 0
+8 11010 64
+cfl=(1)
+cfn=(22)
+calls=1 0 0
+9 20100 0
+cfl=(1)
+cfn=(6)
+calls=1 0 0
+17 476750 10280
+cfl=(9)
+cfn=(33)
+calls=1 0 0
+17 3310 2608
+cfl=(1)
+cfn=(6)
+calls=1 0 0
+18 163790 11256
+cfl=(10)
+cfn=(35)
+calls=1 0 0
+18 80 0
+cfl=(10)
+cfn=(44)
+calls=1 0 0
+19 8630 128
+cfl=(9)
+cfn=(45)
+calls=1 0 0
+21 30 0
+cfl=(10)
+cfn=(47)
+calls=1 0 0
+22 3490 0
+
+summary: 2246750 889032
+
