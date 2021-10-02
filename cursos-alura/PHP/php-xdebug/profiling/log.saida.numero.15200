@@ -1,0 +1,6422 @@
+version: 1
+creator: xdebug 3.1.0beta2 (PHP 7.4.23)
+cmd: C:\ProgramData\ComposerSetup\bin\composer.phar
+part: 1
+positions: line
+
+events: Time_(10ns) Memory_(bytes)
+
+fl=(1) php:internal
+fn=(1) php::extension_loaded
+14 210 0
+
+fl=(1)
+fn=(2) php::class_exists
+23 220 0
+
+fl=(1)
+fn=(3) php::Phar::mapPhar
+28 380 0
+
+fl=(1)
+fn=(4) php::setlocale
+7 1700 0
+
+fl=(1)
+fn=(5) php::file_exists
+19 480 96
+
+fl=(2) phar://C:/ProgramData/ComposerSetup/bin/composer.phar/vendor/composer/autoload_real.php
+fn=(6) require_once::phar://C:/ProgramData/ComposerSetup/bin/composer.phar/vendor/composer/autoload_real.php
+1 420 0
+
+fl=(1)
+fn=(7) php::spl_autoload_register
+25 700 520
+
+fl=(3) phar://C:/ProgramData/ComposerSetup/bin/composer.phar/vendor/composer/ClassLoader.php
+fn=(8) require::phar://C:/ProgramData/ComposerSetup/bin/composer.phar/vendor/composer/ClassLoader.php
+1 120 0
+
+fl=(2)
+fn=(9) ComposerAutoloaderInitComposerPhar1631706915::loadClassLoader
+9 38770 40880
+cfl=(3)
+cfn=(8)
+calls=1 0 0
+12 120 0
+
+fl=(1)
+fn=(10) php::spl_autoload_call
+26 650 0
+cfl=(2)
+cfn=(9)
+calls=1 0 0
+26 38890 40880
+
+fl=(1)
+fn=(11) php::dirname
+26 360 112
+
+fl=(1)
+fn=(11)
+26 50 96
+
+fl=(3)
+fn=(12) Composer\Autoload\ClassLoader->__construct
+106 260 0
+
+fl=(1)
+fn=(13) php::spl_autoload_unregister
+27 170 0
+
+fl=(1)
+fn=(14) php::function_exists
+29 20 0
+
+fl=(4) phar://C:/ProgramData/ComposerSetup/bin/composer.phar/vendor/composer/autoload_static.php
+fn=(15) require::phar://C:/ProgramData/ComposerSetup/bin/composer.phar/vendor/composer/autoload_static.php
+1 120 0
+
+fl=(1)
+fn=(16) php::Closure::bind
+140 150 920
+
+fl=(4)
+fn=(17) Composer\Autoload\ComposerStaticInitComposerPhar1631706915::getInitializer
+132 3110 0
+cfl=(1)
+cfn=(16)
+calls=1 0 0
+140 150 920
+
+fl=(4)
+fn=(18) Composer\Autoload\ClassLoader::Composer\Autoload\{closure:phar://C:/ProgramData/ComposerSetup/bin/composer.phar/vendor/composer/autoload_static.php:134-140}
+134 430 0
+
+fl=(1)
+fn=(7)
+391 230 128
+
+fl=(3)
+fn=(19) Composer\Autoload\ClassLoader->register
+389 1210 376
+cfl=(1)
+cfn=(7)
+calls=1 0 0
+391 230 128
+
+fl=(1)
+fn=(14)
+14 80 0
+
+fl=(1)
+fn=(14)
+17 40 0
+
+fl=(1)
+fn=(14)
+20 20 0
+
+fl=(1)
+fn=(14)
+23 30 0
+
+fl=(1)
+fn=(14)
+26 30 0
+
+fl=(1)
+fn=(14)
+29 20 0
+
+fl=(1)
+fn=(14)
+32 30 0
+
+fl=(1)
+fn=(14)
+35 30 0
+
+fl=(1)
+fn=(14)
+38 30 0
+
+fl=(1)
+fn=(14)
+41 50 0
+
+fl=(1)
+fn=(14)
+44 30 0
+
+fl=(5) phar://C:/ProgramData/ComposerSetup/bin/composer.phar/vendor/symfony/polyfill-ctype/bootstrap.php
+fn=(20) require::phar://C:/ProgramData/ComposerSetup/bin/composer.phar/vendor/symfony/polyfill-ctype/bootstrap.php
+1 1710 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+14 80 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+17 40 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+20 20 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+23 30 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+26 30 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+29 20 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+32 30 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+35 30 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+38 30 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+41 50 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+44 30 0
+
+fl=(2)
+fn=(21) composerRequireComposerPhar1631706915
+66 27500 9248
+cfl=(5)
+cfn=(20)
+calls=1 0 0
+69 2100 0
+
+fl=(1)
+fn=(14)
+14 40 0
+
+fl=(1)
+fn=(14)
+17 40 0
+
+fl=(1)
+fn=(14)
+20 20 0
+
+fl=(1)
+fn=(14)
+23 20 0
+
+fl=(1)
+fn=(14)
+26 30 0
+
+fl=(1)
+fn=(14)
+29 30 0
+
+fl=(1)
+fn=(14)
+32 10 0
+
+fl=(1)
+fn=(14)
+35 20 0
+
+fl=(1)
+fn=(14)
+38 40 0
+
+fl=(1)
+fn=(14)
+41 10 0
+
+fl=(1)
+fn=(14)
+44 20 0
+
+fl=(1)
+fn=(14)
+47 20 0
+
+fl=(1)
+fn=(14)
+50 20 0
+
+fl=(1)
+fn=(14)
+53 30 0
+
+fl=(1)
+fn=(14)
+56 50 0
+
+fl=(1)
+fn=(14)
+59 30 0
+
+fl=(1)
+fn=(14)
+62 20 0
+
+fl=(1)
+fn=(14)
+65 20 0
+
+fl=(1)
+fn=(14)
+68 20 0
+
+fl=(1)
+fn=(14)
+71 40 0
+
+fl=(1)
+fn=(14)
+74 20 0
+
+fl=(1)
+fn=(14)
+77 30 0
+
+fl=(1)
+fn=(14)
+80 110 0
+
+fl=(1)
+fn=(14)
+83 20 0
+
+fl=(1)
+fn=(14)
+86 20 0
+
+fl=(1)
+fn=(14)
+89 20 0
+
+fl=(1)
+fn=(14)
+92 10 0
+
+fl=(1)
+fn=(14)
+95 20 0
+
+fl=(1)
+fn=(14)
+98 50 0
+
+fl=(1)
+fn=(14)
+101 20 0
+
+fl=(1)
+fn=(14)
+104 20 0
+
+fl=(1)
+fn=(14)
+107 30 0
+
+fl=(1)
+fn=(14)
+110 10 0
+
+fl=(1)
+fn=(14)
+116 10 0
+
+fl=(1)
+fn=(14)
+120 10 0
+
+fl=(1)
+fn=(14)
+123 30 0
+
+fl=(1)
+fn=(14)
+126 20 0
+
+fl=(1)
+fn=(14)
+129 10 0
+
+fl=(1)
+fn=(1)
+133 50 0
+
+fl=(6) phar://C:/ProgramData/ComposerSetup/bin/composer.phar/vendor/symfony/polyfill-mbstring/bootstrap.php
+fn=(22) require::phar://C:/ProgramData/ComposerSetup/bin/composer.phar/vendor/symfony/polyfill-mbstring/bootstrap.php
+1 3470 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+14 40 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+17 40 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+20 20 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+23 20 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+26 30 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+29 30 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+32 10 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+35 20 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+38 40 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+41 10 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+44 20 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+47 20 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+50 20 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+53 30 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+56 50 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+59 30 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+62 20 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+65 20 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+68 20 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+71 40 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+74 20 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+77 30 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+80 110 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+83 20 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+86 20 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+89 20 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+92 10 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+95 20 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+98 50 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+101 20 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+104 20 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+107 30 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+110 10 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+116 10 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+120 10 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+123 30 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+126 20 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+129 10 0
+cfl=(1)
+cfn=(1)
+calls=1 0 0
+133 50 0
+
+fl=(2)
+fn=(21)
+66 118610 37136
+cfl=(6)
+cfn=(22)
+calls=1 0 0
+69 4510 0
+
+fl=(1)
+fn=(14)
+3 60 0
+
+fl=(7) phar://C:/ProgramData/ComposerSetup/bin/composer.phar/vendor/react/promise/src/React/Promise/functions.php
+fn=(23) require::phar://C:/ProgramData/ComposerSetup/bin/composer.phar/vendor/react/promise/src/React/Promise/functions.php
+1 200 0
+
+fl=(8) phar://C:/ProgramData/ComposerSetup/bin/composer.phar/vendor/react/promise/src/React/Promise/functions_include.php
+fn=(24) require::phar://C:/ProgramData/ComposerSetup/bin/composer.phar/vendor/react/promise/src/React/Promise/functions_include.php
+1 162740 35696
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+3 60 0
+cfl=(7)
+cfn=(23)
+calls=1 0 0
+4 200 0
+
+fl=(2)
+fn=(21)
+66 25250 624
+cfl=(8)
+cfn=(24)
+calls=1 0 0
+69 163000 35696
+
+fl=(2)
+fn=(25) ComposerAutoloaderInitComposerPhar1631706915::getLoader
+19 33950 21088
+cfl=(1)
+cfn=(7)
+calls=1 0 0
+25 700 520
+cfl=(1)
+cfn=(10)
+calls=1 0 0
+26 39540 40880
+cfl=(1)
+cfn=(11)
+calls=1 0 0
+26 360 112
+cfl=(1)
+cfn=(11)
+calls=1 0 0
+26 50 96
+cfl=(3)
+cfn=(12)
+calls=1 0 0
+26 260 0
+cfl=(1)
+cfn=(13)
+calls=1 0 0
+27 170 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+29 20 0
+cfl=(4)
+cfn=(15)
+calls=1 0 0
+31 120 0
+cfl=(4)
+cfn=(17)
+calls=1 0 0
+33 3260 920
+cfl=(4)
+cfn=(18)
+calls=1 0 0
+33 430 0
+cfl=(3)
+cfn=(19)
+calls=1 0 0
+51 1440 504
+cfl=(2)
+cfn=(21)
+calls=1 0 0
+59 29600 9248
+cfl=(2)
+cfn=(21)
+calls=1 0 0
+59 123120 37136
+cfl=(2)
+cfn=(21)
+calls=1 0 0
+59 188250 36320
+
+fl=(9) phar://C:/ProgramData/ComposerSetup/bin/composer.phar/vendor/autoload.php
+fn=(26) include::phar://C:/ProgramData/ComposerSetup/bin/composer.phar/vendor/autoload.php
+1 20300 13496
+cfl=(2)
+cfn=(6)
+calls=1 0 0
+5 420 0
+cfl=(2)
+cfn=(25)
+calls=1 0 0
+7 421270 145760
+
+fl=(10) phar://C:/ProgramData/ComposerSetup/bin/composer.phar/src/bootstrap.php
+fn=(27) includeIfExists
+17 13150 1096
+cfl=(1)
+cfn=(5)
+calls=1 0 0
+19 480 96
+cfl=(9)
+cfn=(26)
+calls=1 0 0
+19 441990 159256
+
+fl=(10)
+fn=(28) require::phar://C:/ProgramData/ComposerSetup/bin/composer.phar/src/bootstrap.php
+1 1620 0
+cfl=(10)
+cfn=(27)
+calls=1 0 0
+22 455620 160448
+
+fl=(1)
+fn=(29) php::error_reporting
+15 420 408
+
+fl=(1)
+fn=(30) php::strtr
+496 330 64
+
+fl=(1)
+fn=(31) php::strrpos
+501 210 0
+
+fl=(1)
+fn=(32) php::substr
+502 50 48
+
+fl=(1)
+fn=(32)
+505 20 48
+
+fl=(1)
+fn=(5)
+507 750 32
+
+fl=(3)
+fn=(33) Composer\Autoload\ClassLoader->findFileWithExtension
+493 1930 0
+cfl=(1)
+cfn=(30)
+calls=1 0 0
+496 330 64
+cfl=(1)
+cfn=(31)
+calls=1 0 0
+501 210 0
+cfl=(1)
+cfn=(32)
+calls=1 0 0
+502 50 48
+cfl=(1)
+cfn=(32)
+calls=1 0 0
+505 20 48
+cfl=(1)
+cfn=(5)
+calls=1 0 0
+507 750 32
+
+fl=(3)
+fn=(34) Composer\Autoload\ClassLoader->findFile
+443 1030 0
+cfl=(3)
+cfn=(33)
+calls=1 0 0
+459 3290 192
+
+fl=(11) phar://C:/ProgramData/ComposerSetup/bin/composer.phar/vendor/composer/xdebug-handler/src/XdebugHandler.php
+fn=(35) include::phar://C:/ProgramData/ComposerSetup/bin/composer.phar/vendor/composer/xdebug-handler/src/XdebugHandler.php
+1 490 0
+
+fl=(3)
+fn=(36) Composer\Autoload\includeFile
+569 344400 88536
+cfl=(11)
+cfn=(35)
+calls=1 0 0
+571 490 0
+
+fl=(3)
+fn=(37) Composer\Autoload\ClassLoader->loadClass
+425 1450 0
+cfl=(3)
+cfn=(34)
+calls=1 0 0
+427 4320 192
+cfl=(3)
+cfn=(36)
+calls=1 0 0
+428 344890 88536
+
+fl=(1)
+fn=(10)
+18 1130 0
+cfl=(3)
+cfn=(37)
+calls=1 0 0
+18 350660 88568
+
+fl=(1)
+fn=(38) php::is_string
+58 500 0
+
+fl=(1)
+fn=(39) php::strtoupper
+62 200 40
+
+fl=(1)
+fn=(1)
+66 170 0
+
+fl=(1)
+fn=(40) php::phpversion
+67 250 40
+
+fl=(1)
+fn=(41) php::version_compare
+69 750 0
+
+fl=(1)
+fn=(42) php::xdebug_info
+71 790 408
+
+fl=(1)
+fn=(43) php::implode
+72 60 0
+
+fl=(1)
+fn=(44) php::getenv
+84 530 0
+
+fl=(1)
+fn=(30)
+496 110 56
+
+fl=(1)
+fn=(31)
+501 40 0
+
+fl=(1)
+fn=(32)
+502 30 48
+
+fl=(1)
+fn=(32)
+505 20 40
+
+fl=(1)
+fn=(5)
+507 720 0
+
+fl=(3)
+fn=(33)
+493 1250 16
+cfl=(1)
+cfn=(30)
+calls=1 0 0
+496 110 56
+cfl=(1)
+cfn=(31)
+calls=1 0 0
+501 40 0
+cfl=(1)
+cfn=(32)
+calls=1 0 0
+502 30 48
+cfl=(1)
+cfn=(32)
+calls=1 0 0
+505 20 40
+cfl=(1)
+cfn=(5)
+calls=1 0 0
+507 720 0
+
+fl=(3)
+fn=(34)
+443 790 0
+cfl=(3)
+cfn=(33)
+calls=1 0 0
+459 2170 144
+
+fl=(12) phar://C:/ProgramData/ComposerSetup/bin/composer.phar/vendor/composer/xdebug-handler/src/Status.php
+fn=(45) include::phar://C:/ProgramData/ComposerSetup/bin/composer.phar/vendor/composer/xdebug-handler/src/Status.php
+1 120 0
+
+fl=(3)
+fn=(36)
+569 50110 19104
+cfl=(12)
+cfn=(45)
+calls=1 0 0
+571 120 0
+
+fl=(3)
+fn=(37)
+425 3910 0
+cfl=(3)
+cfn=(34)
+calls=1 0 0
+427 2960 144
+cfl=(3)
+cfn=(36)
+calls=1 0 0
+428 50230 19104
+
+fl=(1)
+fn=(10)
+87 780 0
+cfl=(3)
+cfn=(37)
+calls=1 0 0
+87 57100 19088
+
+fl=(1)
+fn=(44)
+47 570 0
+
+fl=(1)
+fn=(30)
+496 60 56
+
+fl=(1)
+fn=(31)
+501 30 0
+
+fl=(1)
+fn=(32)
+502 30 48
+
+fl=(1)
+fn=(32)
+505 20 40
+
+fl=(1)
+fn=(5)
+507 520 16
+
+fl=(3)
+fn=(33)
+493 1320 16
+cfl=(1)
+cfn=(30)
+calls=1 0 0
+496 60 56
+cfl=(1)
+cfn=(31)
+calls=1 0 0
+501 30 0
+cfl=(1)
+cfn=(32)
+calls=1 0 0
+502 30 48
+cfl=(1)
+cfn=(32)
+calls=1 0 0
+505 20 40
+cfl=(1)
+cfn=(5)
+calls=1 0 0
+507 520 16
+
+fl=(3)
+fn=(34)
+443 730 0
+cfl=(3)
+cfn=(33)
+calls=1 0 0
+459 1980 176
+
+fl=(13) phar://C:/ProgramData/ComposerSetup/bin/composer.phar/vendor/composer/xdebug-handler/src/Process.php
+fn=(46) include::phar://C:/ProgramData/ComposerSetup/bin/composer.phar/vendor/composer/xdebug-handler/src/Process.php
+1 120 0
+
+fl=(3)
+fn=(36)
+569 42460 9800
+cfl=(13)
+cfn=(46)
+calls=1 0 0
+571 120 0
+
+fl=(3)
+fn=(37)
+425 770 0
+cfl=(3)
+cfn=(34)
+calls=1 0 0
+427 2710 176
+cfl=(3)
+cfn=(36)
+calls=1 0 0
+428 42580 9800
+
+fl=(1)
+fn=(10)
+48 560 0
+cfl=(3)
+cfn=(37)
+calls=1 0 0
+48 46060 9816
+
+fl=(1)
+fn=(47) php::putenv
+93 2930 448
+
+fl=(1)
+fn=(48) php::ini_get
+104 440 0
+
+fl=(1)
+fn=(49) php::stripos
+104 190 0
+
+fl=(13)
+fn=(50) Composer\XdebugHandler\Process::setEnv
+89 1960 2616
+cfl=(1)
+cfn=(47)
+calls=1 0 0
+93 2930 448
+cfl=(1)
+cfn=(48)
+calls=1 0 0
+104 440 0
+cfl=(1)
+cfn=(49)
+calls=1 0 0
+104 190 0
+
+fl=(12)
+fn=(51) Composer\XdebugHandler\Status->__construct
+45 1920 0
+cfl=(1)
+cfn=(44)
+calls=1 0 0
+47 570 0
+cfl=(1)
+cfn=(10)
+calls=1 0 0
+48 46620 9816
+cfl=(13)
+cfn=(50)
+calls=1 0 0
+48 5520 3064
+
+fl=(11)
+fn=(52) Composer\XdebugHandler\XdebugHandler->__construct
+56 6160 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+58 500 0
+cfl=(1)
+cfn=(39)
+calls=1 0 0
+62 200 40
+cfl=(1)
+cfn=(1)
+calls=1 0 0
+66 170 0
+cfl=(1)
+cfn=(40)
+calls=1 0 0
+67 250 40
+cfl=(1)
+cfn=(41)
+calls=1 0 0
+69 750 0
+cfl=(1)
+cfn=(42)
+calls=1 0 0
+71 790 408
+cfl=(1)
+cfn=(43)
+calls=1 0 0
+72 60 0
+cfl=(1)
+cfn=(44)
+calls=1 0 0
+84 530 0
+cfl=(1)
+cfn=(10)
+calls=1 0 0
+87 57880 19088
+cfl=(12)
+cfn=(51)
+calls=1 0 0
+87 54630 12880
+
+fl=(12)
+fn=(53) Composer\XdebugHandler\Status->report
+69 90 0
+
+fl=(11)
+fn=(54) Composer\XdebugHandler\XdebugHandler->notify
+475 500 0
+cfl=(12)
+cfn=(53)
+calls=1 0 0
+477 90 0
+
+fl=(1)
+fn=(44)
+137 460 0
+
+fl=(1)
+fn=(55) php::explode
+137 230 376
+
+fl=(11)
+fn=(56) Composer\XdebugHandler\XdebugHandler->requiresRestart
+264 40 0
+
+fl=(12)
+fn=(53)
+69 60 0
+
+fl=(11)
+fn=(54)
+475 270 0
+cfl=(12)
+cfn=(53)
+calls=1 0 0
+477 60 0
+
+fl=(1)
+fn=(44)
+188 300 0
+
+fl=(1)
+fn=(57) php::php_ini_loaded_file
+195 70 48
+
+fl=(1)
+fn=(58) php::php_ini_scanned_files
+197 60 0
+
+fl=(11)
+fn=(59) Composer\XdebugHandler\XdebugHandler::getAllIniFiles
+185 12700 376
+cfl=(1)
+cfn=(44)
+calls=1 0 0
+188 300 0
+cfl=(1)
+cfn=(57)
+calls=1 0 0
+195 70 48
+cfl=(1)
+cfn=(58)
+calls=1 0 0
+197 60 0
+
+fl=(1)
+fn=(60) php::count
+337 440 0
+
+fl=(1)
+fn=(61) php::sys_get_temp_dir
+338 850 104
+
+fl=(1)
+fn=(62) php::defined
+342 250 0
+
+fl=(1)
+fn=(14)
+595 90 0
+
+fl=(1)
+fn=(1)
+600 70 0
+
+fl=(1)
+fn=(63) php::getcwd
+611 110 112
+
+fl=(1)
+fn=(64) php::strpos
+612 40 0
+
+fl=(11)
+fn=(65) Composer\XdebugHandler\XdebugHandler->checkConfiguration
+593 1060 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+595 90 0
+cfl=(1)
+cfn=(1)
+calls=1 0 0
+600 70 0
+cfl=(1)
+cfn=(63)
+calls=1 0 0
+611 110 112
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+612 40 0
+
+fl=(1)
+fn=(44)
+581 180 0
+
+fl=(11)
+fn=(66) Composer\XdebugHandler\XdebugHandler->checkScanDirConfig
+579 220 0
+cfl=(1)
+cfn=(44)
+calls=1 0 0
+581 180 0
+
+fl=(1)
+fn=(5)
+521 7900 0
+
+fl=(11)
+fn=(67) Composer\XdebugHandler\XdebugHandler->checkMainScript
+514 560 0
+cfl=(1)
+cfn=(5)
+calls=1 0 0
+521 7900 0
+
+fl=(1)
+fn=(68) php::tempnam
+374 1468580 80
+
+fl=(1)
+fn=(69) php::file_get_contents
+389 64780 77936
+
+fl=(1)
+fn=(70) php::preg_match
+394 23700 408
+
+fl=(1)
+fn=(71) php::preg_replace
+397 45700 77856
+
+fl=(1)
+fn=(72) php::parse_ini_string
+401 71640 24344
+
+fl=(1)
+fn=(73) php::ini_get_all
+402 9170 20536
+
+fl=(1)
+fn=(38)
+494 70 0
+
+fl=(1)
+fn=(64)
+495 80 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74) php::addcslashes
+502 100 40
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 40
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 40 40
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 40
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 100 0
+
+fl=(1)
+fn=(74)
+502 20 40
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 40
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 30 40
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 40
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(74)
+502 40 40
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 30 32
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 32
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 30 40
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 40
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(74)
+502 30 40
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(38)
+494 80 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 40
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 30 0
+
+fl=(1)
+fn=(74)
+502 20 32
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 32
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 32
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 30 32
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 30 0
+
+fl=(1)
+fn=(74)
+502 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 40 40
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 50 40
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(74)
+502 20 40
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(74)
+502 20 40
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(74)
+502 20 32
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(74)
+502 20 32
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 32
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(74)
+502 30 32
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(74)
+502 30 32
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 40
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 10 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 40
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 40
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 40
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 30 40
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(74)
+502 20 40
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 30 32
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(74)
+502 30 40
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 40
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 40 64
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 40 32
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 32
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(74)
+502 40 32
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 30 40
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 30 40
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 40
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 40
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 30 0
+
+fl=(1)
+fn=(74)
+502 30 40
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(74)
+502 40 32
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(74)
+502 20 32
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 32
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 30 32
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 40 40
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 30 32
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 40
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 30 32
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 40
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(74)
+502 20 40
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 30 32
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(74)
+502 30 32
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 40
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(74)
+502 30 40
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 30 40
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 40
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 30 0
+
+fl=(1)
+fn=(74)
+502 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 30 40
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(74)
+502 20 40
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(74)
+502 20 40
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 40
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(74)
+502 40 56
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 30 48
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 30 40
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 32
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(74)
+502 30 32
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 32
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 50 32
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 32
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 30 40
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(74)
+502 30 40
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 30 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 30 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 100 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 30 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 50 40
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 30 40
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 20 40
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 30 40
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 30 0
+
+fl=(1)
+fn=(38)
+494 20 0
+
+fl=(1)
+fn=(64)
+495 10 0
+
+fl=(1)
+fn=(74)
+502 30 40
+
+fl=(1)
+fn=(38)
+494 10 0
+
+fl=(1)
+fn=(64)
+495 20 0
+
+fl=(1)
+fn=(74)
+502 10 0
+
+fl=(11)
+fn=(75) Composer\XdebugHandler\XdebugHandler->mergeLoadedConfig
+488 206900 8
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 70 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 80 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 100 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 40 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 100 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 30 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 40 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 30 32
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 32
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 30 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 30 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 80 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 30 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 32
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 32
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 32
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 30 32
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 30 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 40 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 50 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 32
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 32
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 32
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 30 32
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 30 32
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 30 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 30 32
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 30 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 40 64
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 40 32
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 32
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 40 32
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 30 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 30 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 30 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 30 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 40 32
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 32
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 32
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 30 32
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 40 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 30 32
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 30 32
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 30 32
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 30 32
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 30 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 30 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 30 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 30 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 40 56
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 30 48
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 30 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 32
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 30 32
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 32
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 50 32
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 32
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 30 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 30 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 30 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 30 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 100 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 30 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 50 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 30 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 20 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 30 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 30 0
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 20 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 10 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 30 40
+cfl=(1)
+cfn=(38)
+calls=1 0 0
+494 10 0
+cfl=(1)
+cfn=(64)
+calls=1 0 0
+495 20 0
+cfl=(1)
+cfn=(74)
+calls=1 0 0
+502 10 0
+
+fl=(1)
+fn=(76) php::file_put_contents
+409 429900 0
+
+fl=(11)
+fn=(77) Composer\XdebugHandler\XdebugHandler->writeTmpIni
+372 38390 0
+cfl=(1)
+cfn=(68)
+calls=1 0 0
+374 1468580 80
+cfl=(1)
+cfn=(69)
+calls=1 0 0
+389 64780 77936
+cfl=(1)
+cfn=(70)
+calls=1 0 0
+394 23700 408
+cfl=(1)
+cfn=(71)
+calls=1 0 0
+397 45700 77856
+cfl=(1)
+cfn=(72)
+calls=1 0 0
+401 71640 24344
+cfl=(1)
+cfn=(73)
+calls=1 0 0
+402 9170 20536
+cfl=(11)
+cfn=(75)
+calls=1 0 0
+403 217630 3072
+cfl=(1)
+cfn=(76)
+calls=1 0 0
+409 429900 0
+
+fl=(1)
+fn=(44)
+442 430 0
+
+fl=(1)
+fn=(44)
+443 70 0
+
+fl=(1)
+fn=(43)
+446 90 0
+
+fl=(1)
+fn=(47)
+446 1280 176
+
+fl=(1)
+fn=(43)
+466 100 56
+
+fl=(1)
+fn=(47)
+466 660 176
+
+fl=(11)
+fn=(78) Composer\XdebugHandler\XdebugHandler->setEnvironment
+440 2850 0
+cfl=(1)
+cfn=(44)
+calls=1 0 0
+442 430 0
+cfl=(1)
+cfn=(44)
+calls=1 0 0
+443 70 0
+cfl=(1)
+cfn=(43)
+calls=1 0 0
+446 90 0
+cfl=(1)
+cfn=(47)
+calls=1 0 0
+446 1280 176
+cfl=(1)
+cfn=(43)
+calls=1 0 0
+466 100 56
+cfl=(1)
+cfn=(47)
+calls=1 0 0
+466 660 176
+
+fl=(11)
+fn=(79) Composer\XdebugHandler\XdebugHandler->prepareRestart
+333 6630 0
+cfl=(11)
+cfn=(59)
+calls=1 0 0
+336 13130 424
+cfl=(1)
+cfn=(60)
+calls=1 0 0
+337 440 0
+cfl=(1)
+cfn=(61)
+calls=1 0 0
+338 850 104
+cfl=(1)
+cfn=(62)
+calls=1 0 0
+342 250 0
+cfl=(11)
+cfn=(65)
+calls=1 0 0
+344 1370 0
+cfl=(11)
+cfn=(66)
+calls=1 0 0
+346 400 0
+cfl=(11)
+cfn=(67)
+calls=1 0 0
+348 8460 0
+cfl=(11)
+cfn=(77)
+calls=1 0 0
+350 2369490 576
+cfl=(11)
+cfn=(78)
+calls=1 0 0
+352 5480 352
+
+fl=(1)
+fn=(80) php::array_slice
+420 340 376
+
+fl=(1)
+fn=(81) php::array_push
+424 210 0
+
+fl=(1)
+fn=(82) php::array_merge
+427 90 696
+
+fl=(11)
+fn=(83) Composer\XdebugHandler\XdebugHandler->getCommand
+417 1540 0
+cfl=(1)
+cfn=(80)
+calls=1 0 0
+420 340 376
+cfl=(1)
+cfn=(81)
+calls=1 0 0
+424 210 0
+cfl=(1)
+cfn=(82)
+calls=1 0 0
+427 90 696
+
+fl=(1)
+fn=(14)
+629 80 0
+
+fl=(1)
+fn=(14)
+642 140 0
+
+fl=(1)
+fn=(84) php::sapi_windows_set_ctrl_handler
+646 400 0
+
+fl=(11)
+fn=(85) Composer\XdebugHandler\XdebugHandler->tryEnableSignals
+627 1060 320
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+629 80 0
+cfl=(1)
+cfn=(14)
+calls=1 0 0
+642 140 0
+cfl=(1)
+cfn=(84)
+calls=1 0 0
+646 400 0
+
+fl=(1)
+fn=(43)
+289 80 224
+
+fl=(12)
+fn=(53)
+69 100 0
+
+fl=(11)
+fn=(54)
+475 510 0
+cfl=(12)
+cfn=(53)
+calls=1 0 0
+477 100 0
+
+fl=(1)
+fn=(86) php::proc_open
+301 1433020 400
+
+fl=(1)
+fn=(87) php::is_resource
+302 110 0
+
+fl=(1)
+fn=(88) php::proc_close
+303 365766600 0
+
+fl=(12)
+fn=(53)
+69 240 0
+
+fl=(11)
+fn=(54)
+475 770 0
+cfl=(12)
+cfn=(53)
+calls=1 0 0
+477 240 0
+
+fl=(1)
+fn=(89) php::unlink
+317 49710 0
+
+fl=(11)
+fn=(90) Composer\XdebugHandler\XdebugHandler->doRestart
+286 9570 88
+cfl=(11)
+cfn=(85)
+calls=1 0 0
+288 1680 320
+cfl=(1)
+cfn=(43)
+calls=1 0 0
+289 80 224
+cfl=(11)
+cfn=(54)
+calls=1 0 0
+289 610 0
+cfl=(1)
+cfn=(86)
+calls=1 0 0
+301 1433020 400
+cfl=(1)
+cfn=(87)
+calls=1 0 0
+302 110 0
+cfl=(1)
+cfn=(88)
+calls=1 0 0
+303 365766600 0
+cfl=(11)
+cfn=(54)
+calls=1 0 0
+311 1010 0
+cfl=(1)
+cfn=(89)
+calls=1 0 0
+317 49710 0
+
+fl=(11)
+fn=(91) Composer\XdebugHandler\XdebugHandler->restart
+276 1070 0
+cfl=(11)
+cfn=(90)
+calls=1 0 0
+278 367262390 304
+
+fl=(11)
+fn=(92) Composer\XdebugHandler\XdebugHandler->check
+134 6510 48
+cfl=(11)
+cfn=(54)
+calls=1 0 0
+136 590 0
+cfl=(1)
+cfn=(44)
+calls=1 0 0
+137 460 0
+cfl=(1)
+cfn=(55)
+calls=1 0 0
+137 230 376
+cfl=(11)
+cfn=(56)
+calls=1 0 0
+139 40 0
+cfl=(11)
+cfn=(54)
+calls=1 0 0
+141 330 0
+cfl=(11)
+cfn=(79)
+calls=1 0 0
+143 2406500 968
+cfl=(11)
+cfn=(83)
+calls=1 0 0
+144 2180 696
+cfl=(11)
+cfn=(91)
+calls=1 0 0
+145 367263460 304
+
+fl=(14) phar://C:/ProgramData/ComposerSetup/bin/composer.phar/bin/composer
+fn=(93) require::phar://C:/ProgramData/ComposerSetup/bin/composer.phar/bin/composer
+1 27540 1696
+cfl=(1)
+cfn=(4)
+calls=1 0 0
+7 1700 0
+cfl=(10)
+cfn=(28)
+calls=1 0 0
+8 457240 160448
+cfl=(1)
+cfn=(29)
+calls=1 0 0
+15 420 408
+cfl=(1)
+cfn=(10)
+calls=1 0 0
+18 351790 88568
+cfl=(11)
+cfn=(52)
+calls=1 0 0
+18 121920 32336
+cfl=(11)
+cfn=(92)
+calls=1 0 0
+19 369680300 2344
+
+fl=(15) C:\ProgramData\ComposerSetup\bin\composer.phar
+fn=(94) {main}
+1 21310 4504
+cfl=(1)
+cfn=(1)
+calls=1 0 0
+14 210 0
+cfl=(1)
+cfn=(2)
+calls=1 0 0
+23 220 0
+cfl=(1)
+cfn=(3)
+calls=1 0 0
+28 380 0
+cfl=(14)
+cfn=(93)
+calls=1 0 0
+29 370640910 285800
+
+summary: 370665160 4945320
+
