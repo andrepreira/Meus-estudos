@@ -1,3 +1,12 @@
+<?php
+
+require 'config.php';
+require 'src/Artigo.php';
+$artigo = new Artigo($mysql);
+$artigos = $artigo->exibirTodos();
+
+?>
+
 <!DOCTYPE html>
 <html lang="pt-br">
 
@@ -8,44 +17,23 @@
 </head>
 
 <body>
-<div id="container">
-    <h1>Meu Blog</h1>
-    <h2>
-        <a href="primeiros-passos-com-spring.html">
-            Primeiros passos com Spring
-        </a>
-    </h2>
-    <p>
-        Na empresa onde trabalho começamos um Coding Dojo, que é basicamente uma reunião com programadores e
-        programadoras a fim de resolver desafios e aperfeiçoar as habilidades com algoritmos.
-    </p>
-    <h2>
-        <a href="o-que-e-metodologia-agil.html">
-            O que é Metodologia Ágil?
-        </a>
-    </h2>
-    <p>
-        Uma vez fui contratada por uma empresa que desenvolvia softwares e aplicativos para outras empresas.
-    </p>
-    <h2>
-        <a href="como-e-o-funil-do-growth-hacking.html">
-            Como é o funil do Growth Hacking?
-        </a>
-    </h2>
-    <p>
-        Minha amiga que possui um clube de assinaturas começou a utilizar o Growth Hacking após conhecer um pouco
-        mais sobre ele.
-    </p>
+    <div id="container">
+        <h1>Meu Blog</h1>
+        <a class="botao botao-block"
+           href="<?php echo 'http://' .$_SERVER['SERVER_NAME'] .
+               $_SERVER['CONTEXT_PREFIX'] .'/admin'; ?>">Página de Administração</a>
+        <?php foreach ($artigos as $artigo) : ?>
+            <h2>
+                <a href="artigo.php?id=<?php  echo $artigo['id']; ?>">
+                    <?php echo $artigo['titulo']; ?>
+                </a>
+            </h2>
+            <p>
+                <?php echo nl2br($artigo['conteudo']);?>
+            </p>
+        <?php endforeach; ?>
 
-    <h2>
-        <a href="como-e-o-funil-do-growth-hacking.html">
-            Esse é o título do meu novo post
-        </a>
-    </h2>
-    <p>
-        Aqui ficaria o conteúdo do meu novo post
-    </p>
-</div>
+    </div>
 </body>
 
 </html>
