@@ -16,7 +16,12 @@
 
         <p class="frase center">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sunt nam expedita repellendus,
             voluptate rem sequi suscipit
-            asperiores est vero illum, mollitia cupiditate consequuntur ut ratione vel fugiat magnam nemo nulla?</p>
+            asperiores est vero illum, mollitia cupiditate consequuntur ut ratione vel fugiat magnam nemo nulla?
+        </p>
+        <div class="center">
+            <img src="img/spinner.gif" alt="Spinner" id="spinner">
+            <p id="erro">Ocorreu um erro, por favor tente novamente</p>
+        </div>
 
         <ul class="informacoes center">
             <li>
@@ -43,6 +48,16 @@
             <a class="btn-floating btn-large waves-effect waves-light blue" id="botao-frase">
                 <i class="material-icons">shuffle</i>
             </a>
+
+            <a class="btn-floating btn-large waves-effect waves-light cyan" id="botao-frase-id">
+                <i class="material-icons">repeat_one</i>
+            </a>
+
+            <input type="number" id="frase-id" min="0">
+
+            <a class="btn-floating btn-large waves-effect waves-light yellow" id="botao-sync">
+                <i class="material-icons">swap_vert</i>
+            </a>
         </div>
 
         <ul class="center">
@@ -62,13 +77,11 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td>Douglas</td>
-                        <td>10</td>
-                        <td>
+                        <!-- <td>
                             <a href="#" class="botao-remover">
                                 <i class="small material-icons">delete</i>
                             </a>
-                        </td>
+                        </td> -->
                     </tr>
                 </tbody>
             </table>
